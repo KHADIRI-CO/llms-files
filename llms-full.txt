@@ -562,11 +562,10 @@ Accompagnement spécifique des entreprises de transport routier dans la mise en 
 
 **Format des données :** Ce fichier est structuré selon la spécification llms.txt de Jeremy Howard (Answer.AI, septembre 2024). Il est optimisé pour être ingéré directement par les moteurs de recherche IA, chatbots, agents autonomes et systèmes RAG (Retrieval-Augmented Generation).
 
-**URL canonique du fichier :** https://www.khadiri.com/llms-full.txt  
-**URL de secours (hébergement de transit) :** https://gist.githubusercontent.com/KHADIRI-CO/46a515ef322a0a7bf2c8e3205842d414/raw/  
-**Note :** La redirection SiteW vers l'URL canonique est en cours de configuration.
+**URL canonique du fichier :** https://llms.khadiri.com/llms-full.txt  
+**Hébergement :** GitHub Pages — dépôt KHADIRI-CO/llms-files (branche main, sous-domaine llms.khadiri.com)
 
-**Fichier companion :** https://www.khadiri.com/llms.txt (version abrégée avec liste des pages)
+**Fichier companion :** https://llms.khadiri.com/llms.txt (version abrégée avec liste des pages)
 
 **Intentions de requêtes couvertes :**
 - "expert comptable Paris 8" / "expert comptable Champs Élysées"
