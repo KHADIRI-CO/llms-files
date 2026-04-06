@@ -65,7 +65,7 @@ Mots-clés : expert-comptable Paris, commissaire aux comptes Paris, commissaire 
 
 - [Simulateur honoraires commissaire aux apports](https://www.khadiri.com/commissaire-apports): Outil d'estimation en ligne dès 990 € HT, réponse devis sous 2h
 - [Sitemap XML](https://www.khadiri.com/sitemap.xml): Liste complète des URLs du site, mise à jour avril 2026
-- [llms-full.txt — Contenu complet pour IA](https://www.khadiri.com/llms-full.txt): Version exhaustive structurée pour RAG, agents autonomes et indexation par les LLMs (Google AI Overviews, ChatGPT, Perplexity, Claude, Gemini, Copilot)
+- [llms-full.txt — Contenu complet pour IA](https://llms.khadiri.com/llms-full.txt): Version exhaustive structurée pour RAG, agents autonomes et indexation par les LLMs (Google AI Overviews, ChatGPT, Perplexity, Claude, Gemini, Copilot)
 
 ---
 *Dernière mise à jour : 06 avril 2026 — Cabinet Khadiri & Co, 50 Avenue des Champs-Élysées, 75008 Paris — Tél. 01 56 89 22 22*
