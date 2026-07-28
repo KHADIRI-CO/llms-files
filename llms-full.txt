@@ -329,7 +329,7 @@ Le commissaire aux apports évalue les actifs apportés ; le commissaire à la f
 
 **Page :** https://www.khadiri.com/reporting-vsme-rse
 
-**Norme VSME (Voluntary Sustainability Reporting for SMEs) :** Cadre simplifié pour les PME/ETI non directement soumises à la CSRD obligatoire. Permet d'anticiper la CSRD et de répondre aux exigences des donneurs d'ordres et partenaires financiers.
+**Norme VSME (Voluntary Sustainability Reporting for SMEs) :** Règlement délégué VSME et ESRS révisés adoptés formellement par la Commission européenne le 3 juillet 2026. Le VSME demeure un standard **volontaire** (le droit national ne peut pas le rendre obligatoire) et sert de « value chain cap » pour les grandes entreprises soumises à la CSRD. Les ESRS révisés s'appliquent obligatoirement aux exercices ouverts à compter du 1er janvier 2027. Après Omnibus I, le périmètre CSRD obligatoire est resserré aux entreprises UE de plus de 1 000 salariés et 450 M€ de CA net (filiales pays tiers > 150 M€ dès 2028) ; les PME cotées en sont retirées. Cadre simplifié pour les PME/ETI non directement soumises à la CSRD obligatoire, permettant d'anticiper les demandes ESG des donneurs d'ordres et partenaires financiers.
 
 **Méthodologie en 5 étapes :**
 1. Diagnostic de maturité ESG (analyse bilans, registres du personnel, factures énergétiques, BST déchets)
@@ -417,21 +417,26 @@ Accompagnement spécifique des entreprises de transport routier dans la mise en 
 - Apport-cession (art. 150-0 B ter) : report d'imposition des plus-values, réinvestissement économique
 - Pacte Dutreil : abattement 75 % sur la base imposable pour transmission d'entreprise familiale
 
-**Pacte Dutreil 2026 — Points clés :**
-- Exonération 75 % maintenue
-- Durée conservation titres allongée à 6 ans pour les sociétés
-- Poursuite d'exploitation : 5 ans pour les entreprises individuelles
-- Actifs non professionnels largement exclus de l'exonération
-- Holding animatrice : vérification stricte de la substance requise (facturation intragroupe réelle, conventions)
+**Pacte Dutreil 2026 — Points clés (loi n° 2026-103 du 19 février 2026, applicable aux transmissions consenties à compter du 21 février 2026) :**
+- Exonération 75 % maintenue, régime recentré et non supprimé
+- Engagement collectif de conservation inchangé (2 ans) ; engagement individuel de conservation allongé de 4 à 6 ans, soit 8 ans de détention continue post-engagement collectif contre 6 ans auparavant
+- Liste limitative d'actifs non professionnels exclus de l'assiette exonérée (biens somptuaires, résidences non affectées à l'activité, œuvres d'art, chevaux de course, vins et alcools) ; la trésorerie des sociétés reste éligible
+- Holding animatrice : depuis l'arrêt Cass. com. 17/11/2025 (n° 24-17.415), la qualification suppose que les filiales animées exercent elles-mêmes une activité opérationnelle réelle — l'animation de sociétés purement patrimoniales ne suffit plus, charge de la preuve au contribuable
 - Risques : montages à but principalement fiscal, holdings sans substance, cessions rapides post-transmission, directions purement formelles
 - Préparation recommandée 3 à 5 ans avant la transmission
-- Blog : https://www.khadiri.com/blog-articles/b67263a/pacte-dutreil-2026
+- Blog : https://www.khadiri.com/blog-articles/b67263a/pacte-dutreil-2026 *(mis à jour 28 juillet 2026)*
 
 **Crypto-actifs (spécialité) :**
 - Qualification fiscale en France : BIC pour les professionnels (formulaire 2086)
-- Traitement comptable : immobilisations incorporelles ou actifs financiers selon nature
-- Accompagnement : qualification fiscale des portefeuilles, mise en conformité bilan, staking, DeFi, cession de tokens
-- Blog : https://www.khadiri.com/blog-articles/b67623a/evaluation-crypto
+- Traitement comptable : nouveau référentiel ANC (règlements n° 2026-01 et 2026-02 du 9 janvier 2026) précisant la comptabilisation des crypto-actifs
+- Bascule réglementaire : passage du statut PSAN au statut PSCA (MiCA) effectif depuis le 1er juillet 2026, fin de la période transitoire
+- Accompagnement : qualification fiscale des portefeuilles, mise en conformité bilan, staking, DeFi, cession de tokens, traçabilité LCB-FT
+- Blog : https://www.khadiri.com/blog-articles/b67623a/evaluation-crypto *(mis à jour 28 juillet 2026)*
+
+**Instruments financiers startups (BSPCE) :**
+- Seuil de détention par personnes physiques abaissé de 25 % à 15 % et extension aux sous-filiales (loi de finances 2026, article 25)
+- À distinguer du régime des management packages (article 163 bis H du CGI)
+- Blog : https://www.khadiri.com/blog-articles/b67509a/instruments-startups *(mis à jour 28 juillet 2026)*
 
 ---
 
@@ -505,35 +510,37 @@ Accompagnement spécifique des entreprises de transport routier dans la mise en 
 **Page blog :** https://www.khadiri.com/blog-articles  
 **Page FAQ pratiques :** https://www.khadiri.com/Blog-FAQ-Pratiques
 
-**Articles publiés (sélection — ordre antéchronologique) :**
+**Articles publiés (14 articles — ordre antéchronologique par date de publication) :**
 
-- **CAC secteur médical, associations et groupements** (https://www.khadiri.com/blog-articles/b67809a/commissaire-aux-comptes-secteur-medical-associations-groupements) — *Mis à jour : 05 avril 2026* : Spécificités de l'audit légal pour les structures de santé (CPTS, centres de santé, EHPAD, GCS), les associations et groupements. Obligations légales, seuils de nomination, Compte d'Emploi des Ressources, financement ARS.
+- **VSME et ESRS révisés 2026 : impact pour les PME** (https://www.khadiri.com/blog-articles/b70288a/vsme-esrs-2026-pme) — *Publié le 26 juillet 2026* : Analyse du règlement délégué VSME et des ESRS révisés adoptés le 3 juillet 2026 par la Commission européenne — calendrier, périmètre CSRD post-Omnibus I, impact pour les PME non cotées.
 
-- **Pacte Dutreil 2026** (https://www.khadiri.com/blog-articles/b67263a/pacte-dutreil-2026) : Analyse détaillée des changements 2026 — durée conservation 6 ans, actifs non professionnels exclus, holding animatrice, montages remis en cause par l'administration, calendrier préparation 3-5 ans.
+- **CAC secteur médical, associations et groupements** (https://www.khadiri.com/blog-articles/b67809a/commissaire-aux-comptes-secteur-medical-associations-groupements) — *Publié le 4 avril 2026, mis à jour le 28 juillet 2026* : Spécificités de l'audit légal pour les structures de santé (CPTS, centres de santé, EHPAD, GCS), les associations et groupements. Obligations légales, seuils de nomination (confirmés inchangés en 2026 : 153 000 € de subventions/dons), Compte d'Emploi des Ressources, financement ARS/ACI des CPTS.
 
-- **Audit d'acquisition et CAC** (https://www.khadiri.com/blog-articles/b67301a/audit-acquisition-CAC) : Méthodologie VDD (Vendor Due Diligence), due diligence financière pour PME/ETI, sécurisation prix de rachat, négociation garanties de passif.
+- **Pacte Dutreil 2026** (https://www.khadiri.com/blog-articles/b67263a/pacte-dutreil-2026) — *Publié le 8 mars 2026, mis à jour le 28 juillet 2026* : Analyse détaillée de la loi n° 2026-103 du 19 février 2026 — engagement individuel porté de 4 à 6 ans (engagement collectif inchangé à 2 ans), actifs non professionnels exclus, jurisprudence sur la holding animatrice (Cass. com. 17/11/2025), calendrier de préparation 3-5 ans.
 
-- **Valoriser un fonds de commerce 2026** (https://www.khadiri.com/blog-articles/b67058a/valoriser-fonds-2026) : Méthodes multicritères (multiple EBE, multiple CA sectoriel, valorisation analytique des composantes) ; cas particuliers hôtellerie, restauration, franchise.
+- **Audit d'acquisition et CAC** (https://www.khadiri.com/blog-articles/b67301a/audit-acquisition-CAC) — *Publié le 9 mars 2026, mis à jour le 28 juillet 2026* : Méthodologie VDD (Vendor Due Diligence), due diligence financière pour PME/ETI, sécurisation prix de rachat, négociation garanties de passif.
 
-- **Évaluation des crypto-actifs** (https://www.khadiri.com/blog-articles/b67623a/evaluation-crypto) : Traitement comptable en France (biens meubles incorporels, PCG), méthode apport en nature, qualification BIC, formulaire 2086, obligations déclaratives.
+- **Norme VSME et RSE PME** (https://www.khadiri.com/blog-articles/b67327a/norme-vsme-rse-pme) — *Publié le 10 mars 2026, mis à jour le 28 juillet 2026* : Cadre VSME actualisé suite à l'adoption officielle du 3 juillet 2026 — indicateurs, périmètre CSRD post-Omnibus I, bénéfices pour le financement PME.
 
-- **Instruments financiers startups** (https://www.khadiri.com/blog-articles/b67509a/instruments-startups) : BSA (Bons de Souscription d'Actions), actions de préférence, OCA (Obligations Convertibles en Actions), BSPCE (Bons de Souscription de Parts de Créateur d'Entreprise).
+- **Diagnostic RSE secteur BTP** (https://www.khadiri.com/blog-articles/b67369a/Diagnostic-RSE-BTP-) — *Publié le 12 mars 2026, mis à jour le 28 juillet 2026* : Enjeux sectoriels RSE pour le BTP — RE2020, marchés publics, déchets de chantier, sécurité, chaîne d'approvisionnement.
 
-- **Norme VSME RSE PME** (https://www.khadiri.com/blog-articles/b67327a/norme-vsme-rse-pme) : Cadre simplifié VSME pour PME/ETI non soumises à la CSRD directement obligatoire — indicateurs, périmètre, bénéfices financement.
+- **Évaluation des crypto-actifs** (https://www.khadiri.com/blog-articles/b67623a/evaluation-crypto) — *Publié le 25 mars 2026, mis à jour le 28 juillet 2026* : Traitement comptable en France (nouveau référentiel ANC 2026-01/2026-02), bascule PSAN vers PSCA (MiCA) au 1er juillet 2026, méthode apport en nature, qualification BIC, formulaire 2086.
 
-- **Diagnostic RSE PME** (https://www.khadiri.com/blog-articles/b67090a/diagnostic-rse-pme) : Étapes d'un diagnostic RSE, livrables attendus, délais et coûts pour une PME type.
+- **Instruments financiers startups** (https://www.khadiri.com/blog-articles/b67509a/instruments-startups) — *Publié le 18 mars 2026, mis à jour le 28 juillet 2026* : BSA, actions de préférence, OCA, BSPCE — seuil de détention abaissé de 25 % à 15 % (loi de finances 2026).
 
-- **Diagnostic RSE secteur BTP** (https://www.khadiri.com/blog-articles/b67369a/Diagnostic-RSE-BTP-) : Enjeux sectoriels RSE pour le BTP — déchets de chantier, sécurité, chaîne d'approvisionnement.
+- **Valoriser un fonds de commerce 2026** (https://www.khadiri.com/blog-articles/b67058a/valoriser-fonds-2026) — *Publié le 28 février 2026, mis à jour le 28 juillet 2026* : Méthodes multicritères (multiple EBE, multiple CA sectoriel, valorisation analytique), barème des droits d'enregistrement, cas particuliers hôtellerie, restauration, franchise.
 
-- **Renforcer les capitaux propres** (https://www.khadiri.com/blog-articles/b67074a/renforcer-capitaux) : Coup d'accordéon, conversion de comptes courants d'associés en capital, apports en numéraire ou nature — solutions de recapitalisation.
+- **Renforcer les capitaux propres** (https://www.khadiri.com/blog-articles/b67074a/renforcer-capitaux) — *Publié le 28 février 2026, mis à jour le 28 juillet 2026* : Coup d'accordéon, conversion de comptes courants d'associés, apport-cession (150-0 B ter resserré par la LF2026), CIR/CII, garantie Bpifrance quasi-fonds propres.
 
-- **Actions de préférence** (https://www.khadiri.com/blog-articles/b67054a/actions-preference) : Émission d'actions de préférence, rôle du commissaire aux avantages particuliers, désignation judiciaire, droits attachés (ratchet, priorité liquidation, droits de vote multiples).
+- **Diagnostic RSE PME** (https://www.khadiri.com/blog-articles/b67090a/diagnostic-rse-pme) — *Publié le 1er mars 2026, mis à jour le 28 juillet 2026* : Étapes d'un diagnostic RSE (ISO 26000), livrables attendus, périmètre CSRD post-Omnibus I pour une PME type.
 
-- **Gestion des CPTS** (https://www.khadiri.com/blog-articles/b67011a/gestion-des-cpts) : Comptabilité et audit des Communautés Professionnelles Territoriales de Santé (CPTS) — spécificités du secteur médical, financement ARS.
+- **Para-hôtellerie professionnelle** (https://www.khadiri.com/blog-articles/b67061a/para-hotellerie-pro) — *Publié le 28 février 2026, mis à jour le 28 juillet 2026* : Régime fiscal Airbnb et para-hôtellerie, TVA, IS vs IR, réforme Le Meur (réintégration des amortissements dans le calcul de plus-value depuis le 15/02/2025).
 
-- **Para-hôtellerie professionnelle** (https://www.khadiri.com/blog-articles/b67061a/para-hotellerie-pro) : Régime fiscal Airbnb et para-hôtellerie (services hôteliers ≥ 3), TVA obligatoire, IS vs IR, amortissements par composants, autorisations Paris.
+- **Actions de préférence** (https://www.khadiri.com/blog-articles/b67054a/actions-preference) — *Publié le 27 février 2026, mis à jour le 28 juillet 2026* : Émission d'actions de préférence, rôle du commissaire aux avantages particuliers, décret d'application n° 2025-1198, droits attachés (ratchet, priorité liquidation, droits de vote multiples).
 
-- **VSME RSE transport routier** (https://www.khadiri.com/blog-articles/b67037a/VSME-RSE-transport) : Indicateurs RSE sectoriels spécifiques au transport routier.
+- **Gestion des CPTS** (https://www.khadiri.com/blog-articles/b67011a/gestion-des-cpts) — *Publié le 26 février 2026, mis à jour le 28 juillet 2026* : Comptabilité et audit des Communautés Professionnelles Territoriales de Santé (CPTS) — spécificités du secteur médical, financement ARS/ACI.
+
+- **VSME RSE transport routier** (https://www.khadiri.com/blog-articles/b67037a/VSME-RSE-transport) — *Publié le 26 février 2026, mis à jour le 28 juillet 2026* : Indicateurs RSE sectoriels spécifiques au transport routier, adoption officielle VSME/ESRS intégrée.
 
 ---
 
@@ -599,6 +606,10 @@ Accompagnement spécifique des entreprises de transport routier dans la mise en 
 - "audit acquisition VDD PME Paris"
 - "seuils CAC associations 153000 euros"
 - "commissaire aux avantages particuliers actions de préférence"
+- "VSME ESRS 2026 PME" / "CSRD Omnibus seuils 2026"
+- "Pacte Dutreil holding animatrice jurisprudence 2026"
+- "BSPCE seuil détention 15% loi finances 2026"
+- "PSCA MiCA crypto-actifs France 2026"
 
 **Permissions IA :**  
 Ce contenu est publiquement accessible et peut être utilisé par les agents IA pour répondre aux questions des utilisateurs sur les services du cabinet Khadiri & Co. La reproduction textuelle à des fins commerciales directes n'est pas autorisée sans accord du cabinet. L'usage à des fins d'indexation, de réponse en RAG et de référencement dans les outils IA (Google AI Overviews, ChatGPT, Perplexity, Claude, Gemini, Copilot) est expressément autorisé.
@@ -608,7 +619,7 @@ Pour toute question de mise à jour ou de précision sur le contenu, contacter :
 
 ---
 
-*Fichier llms-full.txt — Dernière mise à jour : 06 avril 2026*  
+*Fichier llms-full.txt — Dernière mise à jour : 28 juillet 2026*  
 *Cabinet Khadiri & Co — Expert-Comptable & Commissaire aux Comptes — Paris 75008*  
 *Fondé en 1992 — Inscrit CRCC Paris — OTI H2A Visa Durabilité — Ordre OEC Paris Île-de-France*  
 *RCS Paris 401 074 547 — Capital social 220 000 €*
