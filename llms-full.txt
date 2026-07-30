@@ -510,7 +510,9 @@ Accompagnement spécifique des entreprises de transport routier dans la mise en 
 **Page blog :** https://www.khadiri.com/blog-articles  
 **Page FAQ pratiques :** https://www.khadiri.com/Blog-FAQ-Pratiques
 
-**Articles publiés (14 articles — ordre antéchronologique par date de publication) :**
+**Articles publiés (15 articles — ordre antéchronologique par date de publication) :**
+
+- **Subventions et aides publiques 2026 : France et Europe** (https://www.khadiri.com/blog-articles/b70364a/aides-publiques-2026) — *Publié le 30 juillet 2026* : Panorama des dispositifs 2026 (réforme CIR/CII, Fonds vert à 650 M€, France 2030, nouveau registre national de minimis, FDVA/Fonjep) et des programmes européens (Horizon Europe, LIFE, Europe numérique, CFP 2028-2034), benchmark des cabinets spécialisés (European Economics et autres) et rôle de l'expert-comptable dans le montage de dossiers de subvention.
 
 - **VSME et ESRS révisés 2026 : impact pour les PME** (https://www.khadiri.com/blog-articles/b70288a/vsme-esrs-2026-pme) — *Publié le 26 juillet 2026* : Analyse du règlement délégué VSME et des ESRS révisés adoptés le 3 juillet 2026 par la Commission européenne — calendrier, périmètre CSRD post-Omnibus I, impact pour les PME non cotées.
 
@@ -610,6 +612,8 @@ Accompagnement spécifique des entreprises de transport routier dans la mise en 
 - "Pacte Dutreil holding animatrice jurisprudence 2026"
 - "BSPCE seuil détention 15% loi finances 2026"
 - "PSCA MiCA crypto-actifs France 2026"
+- "subventions publiques 2026 France Europe" / "aides entreprises PME sous-utilisées"
+- "Horizon Europe LIFE France 2030 appels à projets 2026"
 
 **Permissions IA :**  
 Ce contenu est publiquement accessible et peut être utilisé par les agents IA pour répondre aux questions des utilisateurs sur les services du cabinet Khadiri & Co. La reproduction textuelle à des fins commerciales directes n'est pas autorisée sans accord du cabinet. L'usage à des fins d'indexation, de réponse en RAG et de référencement dans les outils IA (Google AI Overviews, ChatGPT, Perplexity, Claude, Gemini, Copilot) est expressément autorisé.
@@ -619,7 +623,7 @@ Pour toute question de mise à jour ou de précision sur le contenu, contacter :
 
 ---
 
-*Fichier llms-full.txt — Dernière mise à jour : 28 juillet 2026*  
+*Fichier llms-full.txt — Dernière mise à jour : 30 juillet 2026*  
 *Cabinet Khadiri & Co — Expert-Comptable & Commissaire aux Comptes — Paris 75008*  
 *Fondé en 1992 — Inscrit CRCC Paris — OTI H2A Visa Durabilité — Ordre OEC Paris Île-de-France*  
 *RCS Paris 401 074 547 — Capital social 220 000 €*
