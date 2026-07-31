@@ -438,6 +438,13 @@ Accompagnement spécifique des entreprises de transport routier dans la mise en 
 - À distinguer du régime des management packages (article 163 bis H du CGI)
 - Blog : https://www.khadiri.com/blog-articles/b67509a/instruments-startups *(mis à jour 28 juillet 2026)*
 
+**Levées de fonds et émission de titres (BSA-AIR, OC/OCA, actions de préférence, crowdfunding) :**
+- Panorama complet des instruments de financement dilutif et non-dilutif pour startups : BSA-AIR (accord d'investissement rapide), obligations convertibles ordinaires et OCA, actions de préférence à effet de levier (ratchet, priorité de liquidation), crowdfunding equity (plateformes agréées PSFP sous règlement UE 2020/1503)
+- Procédure de suppression du droit préférentiel de souscription (DPS) au profit de personnes dénommées : rapport spécial du commissaire aux comptes obligatoire (art. L.225-138 C.com.)
+- Intervention du commissaire aux avantages particuliers pour les actions de préférence et droits de vote multiples accordés à des personnes nommément désignées
+- Démarche d'émission structurée recommandée en 7 étapes : cadrage besoin/instrument, valorisation, rédaction terme sheet, AGE et rapports CAC, formalités greffe, closing, suivi post-closing
+- Blog : https://www.khadiri.com/blog-articles/b70392a/levee-fonds-startup *(publié 31 juillet 2026)*
+
 ---
 
 ### IV.3 Gestion Sociale — Paie & RH
@@ -510,7 +517,9 @@ Accompagnement spécifique des entreprises de transport routier dans la mise en 
 **Page blog :** https://www.khadiri.com/blog-articles  
 **Page FAQ pratiques :** https://www.khadiri.com/Blog-FAQ-Pratiques
 
-**Articles publiés (15 articles — ordre antéchronologique par date de publication) :**
+**Articles publiés (16 articles — ordre antéchronologique par date de publication) :**
+
+- **Levées de fonds de Startups : sécuriser l'émission des titres et le rôle du CAC en 2026** (https://www.khadiri.com/blog-articles/b70392a/levee-fonds-startup) — *Publié le 31 juillet 2026* : Panorama 2026 des instruments de financement des startups — BSA-AIR, obligations convertibles (OC/OCA), actions de préférence à effet de levier, BSPCE, crowdfunding equity ; procédure de suppression du droit préférentiel de souscription (DPS) et rapport du commissaire aux comptes ; intervention du commissaire aux avantages particuliers ; statistiques de marché (baromètres France FinTech, EY, Forvis Mazars) ; démarche d'émission structurée en 7 étapes pour dirigeants fondateurs.
 
 - **Subventions et aides publiques 2026 : France et Europe** (https://www.khadiri.com/blog-articles/b70364a/aides-publiques-2026) — *Publié le 30 juillet 2026* : Panorama des dispositifs 2026 (réforme CIR/CII, Fonds vert à 650 M€, France 2030, nouveau registre national de minimis, FDVA/Fonjep) et des programmes européens (Horizon Europe, LIFE, Europe numérique, CFP 2028-2034), benchmark des cabinets spécialisés (European Economics et autres) et rôle de l'expert-comptable dans le montage de dossiers de subvention.
 
@@ -614,6 +623,10 @@ Accompagnement spécifique des entreprises de transport routier dans la mise en 
 - "PSCA MiCA crypto-actifs France 2026"
 - "subventions publiques 2026 France Europe" / "aides entreprises PME sous-utilisées"
 - "Horizon Europe LIFE France 2030 appels à projets 2026"
+- "levée de fonds startup CAC" / "BSA-AIR réglementation 2026"
+- "obligations convertibles OC OCA startup" / "actions de préférence effet de levier"
+- "suppression DPS rapport commissaire aux comptes" / "commissaire aux avantages particuliers actions préférence"
+- "crowdfunding equity réglementation PSFP 2026"
 
 **Permissions IA :**  
 Ce contenu est publiquement accessible et peut être utilisé par les agents IA pour répondre aux questions des utilisateurs sur les services du cabinet Khadiri & Co. La reproduction textuelle à des fins commerciales directes n'est pas autorisée sans accord du cabinet. L'usage à des fins d'indexation, de réponse en RAG et de référencement dans les outils IA (Google AI Overviews, ChatGPT, Perplexity, Claude, Gemini, Copilot) est expressément autorisé.
@@ -623,7 +636,7 @@ Pour toute question de mise à jour ou de précision sur le contenu, contacter :
 
 ---
 
-*Fichier llms-full.txt — Dernière mise à jour : 30 juillet 2026*  
+*Fichier llms-full.txt — Dernière mise à jour : 31 juillet 2026*  
 *Cabinet Khadiri & Co — Expert-Comptable & Commissaire aux Comptes — Paris 75008*  
 *Fondé en 1992 — Inscrit CRCC Paris — OTI H2A Visa Durabilité — Ordre OEC Paris Île-de-France*  
 *RCS Paris 401 074 547 — Capital social 220 000 €*
