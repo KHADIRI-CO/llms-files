@@ -4,7 +4,7 @@
 
 Khadiri & Co est un cabinet pluridisciplinaire basé au 50 Avenue des Champs-Élysées, 75008 Paris. Il intervient auprès des dirigeants, TPE, PME, ETI, startups, associations et groupes pour leurs missions d'audit juridique, d'expertise comptable, de durabilité/ESG et de conseil stratégique. Le cabinet est dirigé par Saïd Khadiri (fondateur, Expert-Comptable et CAC depuis 1992, expert judiciaire de parties, OTI Visa H2A), Marie-Cécile Perthuis et Bernard Attia, associés co-fondateurs.
 
-Mots-clés : expert-comptable Paris, commissaire aux comptes Paris, commissaire aux apports, commissaire à la transformation, audit CSRD, RSE, VSME, bilan carbone BEGES, Pacte Dutreil 2026, crypto-actifs, para-hôtellerie, consolidation, holding, association, CPTS, organisme de formation, Qualiopi, prêt à impact ESG.
+Mots-clés : expert-comptable Paris, commissaire aux comptes Paris, commissaire aux apports, commissaire à la transformation, audit CSRD, RSE, VSME, bilan carbone BEGES, Pacte Dutreil 2026, crypto-actifs, para-hôtellerie, consolidation, holding, association, CPTS, organisme de formation, Qualiopi, prêt à impact ESG, levée de fonds startup, BSA-AIR, obligations convertibles OC/OCA, crowdfunding equity.
 
 ## Présentation et contact
 
@@ -45,7 +45,8 @@ Mots-clés : expert-comptable Paris, commissaire aux comptes Paris, commissaire 
 
 ## Ressources et blog
 
-- [Blog & articles](https://www.khadiri.com/blog-articles) : Articles d'expertise sur la fiscalité, l'audit, la RSE, le financement public, les nouvelles réglementations (15 articles, tous mis à jour au 30 juillet 2026)
+- [Blog & articles](https://www.khadiri.com/blog-articles) : Articles d'expertise sur la fiscalité, l'audit, la RSE, le financement public, les nouvelles réglementations (16 articles, tous mis à jour au 31 juillet 2026)
+- [Levées de fonds de Startups : sécuriser l'émission des titres et le rôle du CAC en 2026](https://www.khadiri.com/blog-articles/b70392a/levee-fonds-startup) : BSA-AIR, OC/OCA, actions de préférence à effet de levier, BSPCE, DPS, crowdfunding equity — réglementation, statistiques de marché 2025/2026 et démarche d'émission structurée en 7 étapes pour dirigeants fondateurs ; intervention du CAC et du commissaire aux avantages particuliers (publié le 31 juillet 2026)
 - [Subventions et aides publiques 2026 : France et Europe](https://www.khadiri.com/blog-articles/b70364a/aides-publiques-2026) : Panorama des dispositifs 2026 (CIR/CII, Fonds vert, France 2030, minimis, Horizon Europe, LIFE) et rôle de l'expert-comptable dans le montage de dossiers de subvention (publié le 30 juillet 2026)
 - [VSME et ESRS révisés 2026 : impact pour les PME](https://www.khadiri.com/blog-articles/b70288a/vsme-esrs-2026-pme) : Règlement VSME et ESRS révisés adoptés le 3 juillet 2026 par la Commission européenne, périmètre CSRD post-Omnibus I (publié le 26 juillet 2026)
 - [CAC secteur médical, associations et groupements](https://www.khadiri.com/blog-articles/b67809a/commissaire-aux-comptes-secteur-medical-associations-groupements) : Audit légal CPTS, centres de santé, EHPAD, GCS — spécificités, seuils (153 000 € confirmés inchangés), CER, financement ARS/ACI
@@ -70,5 +71,5 @@ Mots-clés : expert-comptable Paris, commissaire aux comptes Paris, commissaire 
 - [llms-full.txt — Contenu complet pour IA](https://llms.khadiri.com/llms-full.txt) : Version exhaustive structurée pour RAG, agents autonomes et indexation par les LLMs (Google AI Overviews, ChatGPT, Perplexity, Claude, Gemini, Copilot)
 
 ---
-*Dernière mise à jour : 30 juillet 2026 — Cabinet Khadiri & Co, 50 Avenue des Champs-Élysées, 75008 Paris — Tél. 01 56 89 22 22*
+*Dernière mise à jour : 31 juillet 2026 — Cabinet Khadiri & Co, 50 Avenue des Champs-Élysées, 75008 Paris — Tél. 01 56 89 22 22*
 *Contenu sous licence : usage libre pour indexation et entraînement des IA à des fins informationnelles non commerciales*
