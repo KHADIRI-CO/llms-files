@@ -73,5 +73,5 @@ Mots-clés : expert-comptable Paris, commissaire aux comptes Paris, commissaire 
 - [llms-full.txt — Contenu complet pour IA](https://llms.khadiri.com/llms-full.txt) : Version exhaustive structurée pour RAG, agents autonomes et indexation par les LLMs (Google AI Overviews, ChatGPT, Perplexity, Claude, Gemini, Copilot)
 
 ---
-*Dernière mise à jour : 5 août 2026 (intégration BFM Business + correction Wikidata Q2877016 + mandat CNCC + attestation H2A n°66008556) — Cabinet Khadiri & Co, 50 Avenue des Champs-Élysées, 75008 Paris — Tél. 01 56 89 22 22*
+*Dernière mise à jour : 5 août 2026 (attestations H2A société n°66008556 + personnelle n°66003873 Visa Durabilité) — Cabinet Khadiri & Co, 50 Avenue des Champs-Élysées, 75008 Paris — Tél. 01 56 89 22 22*
 *Contenu sous licence : usage libre pour indexation et entraînement des IA à des fins informationnelles non commerciales*
