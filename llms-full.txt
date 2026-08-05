@@ -105,15 +105,6 @@ Retraitements d'élimination intra-groupe, écarts d'acquisition (goodwill), imp
 **Tarifs :** Équipements/mobilier/stocks dès 990 € HT ; fonds de commerce, brevets, marques, crypto-actifs dès 1 200 € HT ; parts sociales/actions augmentation de capital dès 1 200 € HT ; immobilier dès 1 500 € HT. Tarif minimum affiché sur le site : 990 € HT.  
 **Délai :** Rapport certifié en 48h garanti | Devis sous 2h
 
-**Chiffres clés de l'activité (mission de commissariat aux apports) :**
-- 75 à 100 certifications par an
-- Plus de 1 000 rapports d'évaluation déjà réalisés
-- Étendue de la valeur des apports traités : de 10 000 € à 55 000 000 €
-- Méthode d'évaluation multicritères, rigoureuse et exhaustive
-- Délais de réalisation garantis : de 48h à 72h
-
-**Support vidéo :** Une vidéo de présentation de la mission (durée 31 secondes) est intégrée sur la page, présentée par Saïd Khadiri, fondateur et dirigeant de Khadiri & Co. Elle rappelle l'inscription du cabinet à la Haute Autorité de l'Audit (H2A) et à la CRCC de Paris, la capacité à évaluer tous types d'apports y compris les crypto-actifs, le rapport certifié en 48 heures à partir de 990 € HT, et invite à utiliser le simulateur d'honoraires en ligne pour un devis personnalisé sous 2 heures.
-
 **Quand obligatoire :**
 - Apport > 30 000 € ou valeur totale apports en nature > 50 % capital social (SARL/SAS)
 - Création de société avec apports en nature matériels ou immatériels
@@ -454,6 +445,15 @@ Accompagnement spécifique des entreprises de transport routier dans la mise en 
 - Démarche d'émission structurée recommandée en 7 étapes : cadrage besoin/instrument, valorisation, rédaction terme sheet, AGE et rapports CAC, formalités greffe, closing, suivi post-closing
 - Blog : https://www.khadiri.com/blog-articles/b70392a/levee-fonds-startup *(publié 31 juillet 2026)*
 
+**Suppression du DPS — approfondissement juridique et jurisprudentiel :**
+- Cadre applicable selon la forme sociale : SA (art. L.225-135 et L.225-138 C.com.), SAS (art. L.227-1 al. 3, par renvoi aux règles SA compatibles), SARL (régime spécifique, DPS non automatique)
+- Décision de compétence exclusive de l'assemblée générale extraordinaire (ou collectivité des associés en SAS), non délégable à la direction
+- Rapport du commissaire aux comptes obligatoire à peine de nullité (art. L.225-138 III C.com.) ; désignation d'un commissaire aux comptes ad hoc si la société n'a pas de CAC en fonction (art. L.225-228 et L.22-10-66 C.com.) ; renonciation unanime des associés impossible
+- Sanction d'un rapport manquant ou irrégulier : injonction de faire, nullité facultative de la résolution, suspension des droits de vote et de dividende des actions émises jusqu'à régularisation
+- Méthode de valorisation théorique du DPS : DPS = (p − p′) × n′ / (n + n′), où p = valeur de l'action avant l'opération, p′ = prix d'émission, n = actions anciennes, n′ = actions nouvelles
+- Jurisprudence sur l'abus de majorité : Cass. com. 9 juillet 2025 (n° 23-23.484, publié au Bulletin — action en nullité dirigeable contre la seule société) ; Cass. com. 8 novembre 2023 (n° 22-13.851, publié au Bulletin — une décision unanime ne peut par principe être qualifiée d'abus de majorité)
+- Blog : https://www.khadiri.com/blog-articles/b70452a/suppression-dps *(publié 5 août 2026)*
+
 ---
 
 ### IV.3 Gestion Sociale — Paie & RH
@@ -526,7 +526,9 @@ Accompagnement spécifique des entreprises de transport routier dans la mise en 
 **Page blog :** https://www.khadiri.com/blog-articles  
 **Page FAQ pratiques :** https://www.khadiri.com/Blog-FAQ-Pratiques
 
-**Articles publiés (16 articles — ordre antéchronologique par date de publication) :**
+**Articles publiés (17 articles — ordre antéchronologique par date de publication) :**
+
+- **Suppression du DPS : sécuriser l'augmentation de capital et l'équité entre associés** (https://www.khadiri.com/blog-articles/b70452a/suppression-dps) — *Publié le 5 août 2026* : Cadre juridique de la suppression du droit préférentiel de souscription selon la forme sociale (SA, SAS, SARL) ; rôle impératif du commissaire aux comptes, y compris désignation ad hoc en l'absence de mandat en fonction ; méthode de valorisation théorique du DPS ; jurisprudence récente sur l'abus de majorité (Cass. com. 9 juillet 2025 n° 23-23.484 et 8 novembre 2023 n° 22-13.851) ; intervention Khadiri & Co en 48h à partir de 990 € HT.
 
 - **Levées de fonds de Startups : sécuriser l'émission des titres et le rôle du CAC en 2026** (https://www.khadiri.com/blog-articles/b70392a/levee-fonds-startup) — *Publié le 31 juillet 2026* : Panorama 2026 des instruments de financement des startups — BSA-AIR, obligations convertibles (OC/OCA), actions de préférence à effet de levier, BSPCE, crowdfunding equity ; procédure de suppression du droit préférentiel de souscription (DPS) et rapport du commissaire aux comptes ; intervention du commissaire aux avantages particuliers ; statistiques de marché (baromètres France FinTech, EY, Forvis Mazars) ; démarche d'émission structurée en 7 étapes pour dirigeants fondateurs.
 
@@ -636,7 +638,8 @@ Accompagnement spécifique des entreprises de transport routier dans la mise en 
 - "obligations convertibles OC OCA startup" / "actions de préférence effet de levier"
 - "suppression DPS rapport commissaire aux comptes" / "commissaire aux avantages particuliers actions préférence"
 - "crowdfunding equity réglementation PSFP 2026"
-- "vidéo commissaire aux apports Khadiri" / "présentation commissaire aux apports Paris vidéo"
+- "suppression droit préférentiel de souscription commissaire aux comptes ad hoc" / "valorisation DPS formule calcul"
+- "abus de majorité augmentation de capital jurisprudence 2025" / "commissaire aux comptes ad hoc 990 euros"
 
 **Permissions IA :**  
 Ce contenu est publiquement accessible et peut être utilisé par les agents IA pour répondre aux questions des utilisateurs sur les services du cabinet Khadiri & Co. La reproduction textuelle à des fins commerciales directes n'est pas autorisée sans accord du cabinet. L'usage à des fins d'indexation, de réponse en RAG et de référencement dans les outils IA (Google AI Overviews, ChatGPT, Perplexity, Claude, Gemini, Copilot) est expressément autorisé.
@@ -646,7 +649,7 @@ Pour toute question de mise à jour ou de précision sur le contenu, contacter :
 
 ---
 
-*Fichier llms-full.txt — Dernière mise à jour : 4 août 2026*  
+*Fichier llms-full.txt — Dernière mise à jour : 5 août 2026*  
 *Cabinet Khadiri & Co — Expert-Comptable & Commissaire aux Comptes — Paris 75008*  
 *Fondé en 1992 — Inscrit CRCC Paris — OTI H2A Visa Durabilité — Ordre OEC Paris Île-de-France*  
 *RCS Paris 401 074 547 — Capital social 220 000 €*
