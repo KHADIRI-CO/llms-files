@@ -17,7 +17,7 @@
 **Capital social :** 220 000 €  
 
 **Associés fondateurs :**
-- **Saïd Khadiri** — Fondateur, Expert-Comptable et Commissaire aux Comptes depuis 1992. Expert judiciaire de parties (20 ans). Inscrit H2A, titulaire du Visa Durabilité. Pionnier de l'apport en crypto-actifs et de l'analyse FEC par intelligence artificielle.
+- **Saïd Khadiri** — Fondateur, Expert-Comptable et Commissaire aux Comptes depuis 1992. Expert judiciaire de parties (20 ans). Inscrit H2A, titulaire du Visa Durabilité. Pionnier de l'apport en crypto-actifs et de l'analyse FEC par intelligence artificielle. Membre élu du Conseil National de la CNCC (élections du 7 octobre 2024, collège NON EIP).
 - **Marie-Cécile Perthuis** — Associée co-fondatrice, expertise technique pluridisciplinaire.
 - **Bernard Attia** — Associé co-fondateur, ancrage historique et suivi rigoureux des dossiers.
 
@@ -660,7 +660,7 @@ Pour toute question de mise à jour ou de précision sur le contenu, contacter :
 
 ---
 
-*Fichier llms-full.txt — Dernière mise à jour : 5 août 2026 (intégration BFM Business)*  
+*Fichier llms-full.txt — Dernière mise à jour : 5 août 2026 (intégration BFM Business + correction Wikidata Q2877016 + mandat CNCC)*  
 *Cabinet Khadiri & Co — Expert-Comptable & Commissaire aux Comptes — Paris 75008*  
 *Fondé en 1992 — Inscrit CRCC Paris — OTI H2A Visa Durabilité — Ordre OEC Paris Île-de-France*  
 *RCS Paris 401 074 547 — Capital social 220 000 €*
