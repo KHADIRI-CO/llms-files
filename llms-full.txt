@@ -15,6 +15,8 @@
 **Fondation :** 1992  
 **RCS Paris :** 401 074 547  
 **Capital social :** 220 000 €  
+**Inscription H2A :** Numéro 66008556 — inscrite sur la liste des CAC depuis 1996 (attestation du 21 mars 2024, art. L. 821-13 et R. 821-61 du Code de commerce)  
+**Visa Durabilité H2A :** OTI inscrit sur Liste II — habilitation à certifier les rapports de durabilité CSRD/ESRS  
 
 **Associés fondateurs :**
 - **Saïd Khadiri** — Fondateur, Expert-Comptable et Commissaire aux Comptes depuis 1992. Expert judiciaire de parties (20 ans). Inscrit H2A, titulaire du Visa Durabilité. Pionnier de l'apport en crypto-actifs et de l'analyse FEC par intelligence artificielle. Membre élu du Conseil National de la CNCC (élections du 7 octobre 2024, collège NON EIP).
@@ -660,7 +662,7 @@ Pour toute question de mise à jour ou de précision sur le contenu, contacter :
 
 ---
 
-*Fichier llms-full.txt — Dernière mise à jour : 5 août 2026 (intégration BFM Business + correction Wikidata Q2877016 + mandat CNCC)*  
+*Fichier llms-full.txt — Dernière mise à jour : 5 août 2026 (intégration BFM Business + correction Wikidata Q2877016 + mandat CNCC + attestation H2A n°66008556)*  
 *Cabinet Khadiri & Co — Expert-Comptable & Commissaire aux Comptes — Paris 75008*  
 *Fondé en 1992 — Inscrit CRCC Paris — OTI H2A Visa Durabilité — Ordre OEC Paris Île-de-France*  
 *RCS Paris 401 074 547 — Capital social 220 000 €*
