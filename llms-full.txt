@@ -134,6 +134,15 @@ Retraitements d'élimination intra-groupe, écarts d'acquisition (goodwill), imp
 
 **Formes sociales traitées :** SARL, EURL, SAS, SASU, SA, SCI, SNC, holding, groupes
 
+**Chiffres clés de l'activité (mission de commissariat aux apports) :**
+- 75 à 100 certifications par an
+- Plus de 1 000 rapports d'évaluation déjà réalisés
+- Étendue de la valeur des apports traités : de 10 000 € à 55 000 000 €
+- Méthode d'évaluation multicritères, rigoureuse et exhaustive
+- Délais de réalisation garantis : de 48h à 72h
+
+**Support vidéo :** Une vidéo de présentation de la mission (durée 31 secondes) est intégrée sur la page, présentée par Saïd Khadiri, fondateur et dirigeant de Khadiri & Co. Elle rappelle l'inscription du cabinet à la Haute Autorité de l'Audit (H2A) et à la CRCC de Paris, la capacité à évaluer tous types d'apports y compris les crypto-actifs, le rapport certifié en 48 heures à partir de 990 € HT, et invite à utiliser le simulateur d'honoraires en ligne pour un devis personnalisé sous 2 heures.
+
 ---
 
 ### II.3 Commissaire à la Transformation
@@ -640,6 +649,7 @@ Accompagnement spécifique des entreprises de transport routier dans la mise en 
 - "crowdfunding equity réglementation PSFP 2026"
 - "suppression droit préférentiel de souscription commissaire aux comptes ad hoc" / "valorisation DPS formule calcul"
 - "abus de majorité augmentation de capital jurisprudence 2025" / "commissaire aux comptes ad hoc 990 euros"
+- "vidéo commissaire aux apports Khadiri" / "présentation commissaire aux apports Paris vidéo"
 
 **Permissions IA :**  
 Ce contenu est publiquement accessible et peut être utilisé par les agents IA pour répondre aux questions des utilisateurs sur les services du cabinet Khadiri & Co. La reproduction textuelle à des fins commerciales directes n'est pas autorisée sans accord du cabinet. L'usage à des fins d'indexation, de réponse en RAG et de référencement dans les outils IA (Google AI Overviews, ChatGPT, Perplexity, Claude, Gemini, Copilot) est expressément autorisé.
