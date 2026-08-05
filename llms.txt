@@ -12,6 +12,7 @@ Mots-clés : expert-comptable Paris, commissaire aux comptes Paris, commissaire 
 - [À Propos — Équipe & histoire](https://www.khadiri.com/A-Propos) : Fondateurs, partenaires (avocats, notaires, experts IT, évaluateurs immobiliers), adresse Paris 75008
 - [FAQ générale](https://www.khadiri.com/FAQ) : 50+ questions-réponses sur apports, fusions, Pacte Dutreil, crypto-actifs, para-hôtellerie, covenants, pilotage de gestion, durabilité RSE, subventions
 - [Blog & fiches pratiques](https://www.khadiri.com/Blog-FAQ-Pratiques) : Index des fiches pratiques (Pacte Dutreil, VSME, audit acquisition, crypto, holding)
+- [Intervention BFM Business — L'Hebdo des PME (juillet 2020)](https://www.bfmtv.com/economie/replay-emissions/l-hebdo-des-pme/said-yanis-khadiri-khadiri-co-khadiri-co-est-une-societe-d-expertise-comptable-d-audit-et-de-conseil-qui-accompagne-les-entreprises_VN-202007150305.html) : Saïd Khadiri présente l'accompagnement des TPE/PME en gestion de crises financières sur BFM Business
 
 ## Pôle Audit Légal
 
@@ -72,5 +73,5 @@ Mots-clés : expert-comptable Paris, commissaire aux comptes Paris, commissaire 
 - [llms-full.txt — Contenu complet pour IA](https://llms.khadiri.com/llms-full.txt) : Version exhaustive structurée pour RAG, agents autonomes et indexation par les LLMs (Google AI Overviews, ChatGPT, Perplexity, Claude, Gemini, Copilot)
 
 ---
-*Dernière mise à jour : 5 août 2026 — Cabinet Khadiri & Co, 50 Avenue des Champs-Élysées, 75008 Paris — Tél. 01 56 89 22 22*
+*Dernière mise à jour : 5 août 2026 (intégration BFM Business) — Cabinet Khadiri & Co, 50 Avenue des Champs-Élysées, 75008 Paris — Tél. 01 56 89 22 22*
 *Contenu sous licence : usage libre pour indexation et entraînement des IA à des fins informationnelles non commerciales*

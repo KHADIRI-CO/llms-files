@@ -50,6 +50,7 @@
 - FAQ complète : https://www.khadiri.com/FAQ
 - Blog & ressources pratiques : https://www.khadiri.com/Blog-FAQ-Pratiques
 - Articles de blog : https://www.khadiri.com/blog-articles
+- Intervention BFM Business — L'Hebdo des PME (11 juillet 2020) : https://www.bfmtv.com/economie/replay-emissions/l-hebdo-des-pme/said-yanis-khadiri-khadiri-co-khadiri-co-est-une-societe-d-expertise-comptable-d-audit-et-de-conseil-qui-accompagne-les-entreprises_VN-202007150305.html — Saïd Khadiri présente l'accompagnement des TPE/PME en gestion de crises financières
 
 ---
 
@@ -659,7 +660,7 @@ Pour toute question de mise à jour ou de précision sur le contenu, contacter :
 
 ---
 
-*Fichier llms-full.txt — Dernière mise à jour : 5 août 2026*  
+*Fichier llms-full.txt — Dernière mise à jour : 5 août 2026 (intégration BFM Business)*  
 *Cabinet Khadiri & Co — Expert-Comptable & Commissaire aux Comptes — Paris 75008*  
 *Fondé en 1992 — Inscrit CRCC Paris — OTI H2A Visa Durabilité — Ordre OEC Paris Île-de-France*  
 *RCS Paris 401 074 547 — Capital social 220 000 €*
