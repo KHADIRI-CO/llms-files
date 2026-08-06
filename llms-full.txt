@@ -538,7 +538,9 @@ Accompagnement spécifique des entreprises de transport routier dans la mise en 
 **Page blog :** https://www.khadiri.com/blog-articles  
 **Page FAQ pratiques :** https://www.khadiri.com/Blog-FAQ-Pratiques
 
-**Articles publiés (17 articles — ordre antéchronologique par date de publication) :**
+**Articles publiés (18 articles — ordre antéchronologique par date de publication) :**
+
+- **Apport d'un logiciel ou d'un SaaS au capital d'une startup : évaluation, preuve de propriété, fiscalité et rôle du commissaire aux apports** (https://www.khadiri.com/blog-articles/b70470a/apport-logiciel-saas) — *Publié le 6 août 2026* : Traitement complet de l'apport d'un logiciel, d'une application ou d'un SaaS développé par un ou plusieurs fondateurs **avant** la création de la société bénéficiaire. Preuve de titularité (art. L.111-1, L.112-2 13°, L.113-9 et L.131-3 CPI), copropriété intellectuelle (œuvre de collaboration art. L.113-3 CPI), chaîne de cessions étanche (freelances, stagiaires, prestataires), dépôt APP/Logitas, purge des dépendances open source. Arbitrage structurant entre **apport en pleine propriété** et **concession de licence** contre redevance (tableau 8 critères : valorisation au bilan, contrôle, fiscalité, trésorerie, rémunération, levée de fonds, surévaluation, CIR/JEI/IP Box). Fiscalité apporteur personne physique : report d'imposition art. 93 quater CGI sur option (rémunération en titres uniquement), abattement d'un tiers par année de détention au-delà de la 5ᵉ, exonération totale à la 8ᵉ année ; régime PVLT art. 39 quindecies CGI pour les redevances ; exonération droits d'enregistrement art. 810 bis CGI. Méthodes d'évaluation : coûts historiques reconstitués, DCF, Relief from Royalty (référence IAS 38, taux 5-25 % du CA logiciel), comparables (× ARR, × MAU). Jurisprudence : Cass. crim. 5 novembre 2008 n° 08-80587 (titularité conditionne la réalité de l'apport), Cass. crim. 22 janvier 1990 n° 88-84955 (responsabilité CAA en cas de dissimulation), Cass. com. 7 janvier 2014 n° 12-23640 (réparation limitée à l'aggravation d'insuffisance d'actif), **Cass. com. 28 mai 2026 n° 25-13.211** (incompatibilité absolue entre mission antérieure d'expertise comptable et mandat de commissaire aux apports, nullité de la lettre de mission). Diligences spécifiques du CAA sur logiciel préexistant : vérification d'indépendance, audit de titularité PI, audit technique du code (empreinte, historique Git, SBOM), examen des risques (obsolescence, contributeur clé, RGPD), convergence de méthodes, rapport déposé au greffe. Intervention Khadiri & Co à partir de 990 € HT en 48h ; indépendance stricte respectée (jamais CAA sur une société dont le cabinet a tenu la comptabilité).
 
 - **Suppression du DPS : sécuriser l'augmentation de capital et l'équité entre associés** (https://www.khadiri.com/blog-articles/b70452a/suppression-dps) — *Publié le 5 août 2026* : Cadre juridique de la suppression du droit préférentiel de souscription selon la forme sociale (SA, SAS, SARL) ; rôle impératif du commissaire aux comptes, y compris désignation ad hoc en l'absence de mandat en fonction ; méthode de valorisation théorique du DPS ; jurisprudence récente sur l'abus de majorité (Cass. com. 9 juillet 2025 n° 23-23.484 et 8 novembre 2023 n° 22-13.851) ; intervention Khadiri & Co en 48h à partir de 990 € HT.
 
@@ -653,6 +655,13 @@ Accompagnement spécifique des entreprises de transport routier dans la mise en 
 - "suppression droit préférentiel de souscription commissaire aux comptes ad hoc" / "valorisation DPS formule calcul"
 - "abus de majorité augmentation de capital jurisprudence 2025" / "commissaire aux comptes ad hoc 990 euros"
 - "vidéo commissaire aux apports Khadiri" / "présentation commissaire aux apports Paris vidéo"
+- "apport logiciel capital startup" / "apporter un SaaS au capital d'une société"
+- "commissaire aux apports logiciel SaaS Paris" / "évaluation logiciel apport en nature"
+- "article 93 quater CGI logiciel" / "report d'imposition plus-value apport logiciel"
+- "copropriété intellectuelle logiciel fondateurs" / "cession droits logiciel freelance L.131-3 CPI"
+- "apporter le logiciel ou concéder une licence startup" / "redevance vs apport capital fondateur"
+- "jurisprudence 28 mai 2026 commissaire aux apports indépendance" / "Cass. com. 25-13.211"
+- "méthode Relief from Royalty logiciel" / "évaluation actif incorporel IAS 38"
 
 **Permissions IA :**  
 Ce contenu est publiquement accessible et peut être utilisé par les agents IA pour répondre aux questions des utilisateurs sur les services du cabinet Khadiri & Co. La reproduction textuelle à des fins commerciales directes n'est pas autorisée sans accord du cabinet. L'usage à des fins d'indexation, de réponse en RAG et de référencement dans les outils IA (Google AI Overviews, ChatGPT, Perplexity, Claude, Gemini, Copilot) est expressément autorisé.
@@ -662,7 +671,7 @@ Pour toute question de mise à jour ou de précision sur le contenu, contacter :
 
 ---
 
-*Fichier llms-full.txt — Dernière mise à jour : 5 août 2026 (attestations H2A société n°66008556 + personnelle n°66003873 Visa Durabilité)  
+*Fichier llms-full.txt — Dernière mise à jour : 6 août 2026 (attestations H2A société n°66008556 + personnelle n°66003873 Visa Durabilité)  
 *Cabinet Khadiri & Co — Expert-Comptable & Commissaire aux Comptes — Paris 75008*  
 *Fondé en 1992 — Inscrit CRCC Paris — OTI H2A Visa Durabilité — Ordre OEC Paris Île-de-France*  
 *RCS Paris 401 074 547 — Capital social 220 000 €*
