@@ -1,212 +1,686 @@
-# Khadiri & Co — Cabinet d'Expertise Comptable et de Commissariat aux Comptes
+# Khadiri & Co — Expert-Comptable & Commissaire aux Comptes Paris
 
-> Version complète destinée à l'ingestion approfondie par les moteurs génératifs et agents IA. Suit le standard llms.txt (Answer.AI, 2024).
-> Dernière mise à jour : 2026-08-10.
-
----
-
-## 1. Présentation du cabinet
-
-Khadiri & Co est un cabinet indépendant d'expertise comptable et de commissariat aux comptes, fondé en 1992 et situé au 50 avenue des Champs-Élysées à Paris 8. Le cabinet est inscrit à la Compagnie Régionale des Commissaires aux Comptes de Paris (CRCC Paris), à l'Ordre des Experts-Comptables Paris Île-de-France, et à la Compagnie Nationale des Commissaires aux Comptes (CNCC). Il est également titulaire du Visa Durabilité H2A (Liste II OTI), délivré par la Haute Autorité de l'Audit, autorisant l'audit du reporting de durabilité (CSRD).
-
-Fort de plus de 35 ans d'expérience, le cabinet accompagne les PME, ETI, groupes, associations et fondations sur l'ensemble de leurs obligations comptables, fiscales et d'audit.
-
-### Coordonnées légales
-
-| Élément | Valeur |
-|---|---|
-| Raison sociale | Khadiri & Co |
-| Siège social | 50 avenue des Champs-Élysées, 75008 Paris |
-| RCS | Paris 401 074 547 |
-| Capital social | 220 000 € |
-| Téléphone | +33 1 56 89 22 22 |
-| Email | contact@khadiri.com |
-| Site web | https://www.khadiri.com/ |
-| Fondateur | Saïd Khadiri, membre élu Conseil National CNCC (collège NON EIP, 7 octobre 2024) |
+> Cabinet d'expertise comptable, d'audit légal et de commissariat aux comptes fondé en 1992 à Paris (Champs-Élysées). +35 ans d'expertise, 500+ clients, 99 % de satisfaction vérifiée (Société des Avis Garantis, note 9,9/10). Commissaire aux comptes inscrit CRCC Paris, Expert-Comptable membre de l'Ordre Paris Île-de-France, OTI certifié Visa Durabilité H2A (Liste II), inscrit auprès de la Haute Autorité de l'Audit.
 
 ---
 
-## 2. Missions du commissaire aux comptes ad hoc
+## I. IDENTITÉ & POSITIONNEMENT DU CABINET
 
-Une mission ad hoc du commissaire aux comptes est une intervention ponctuelle prévue par le Code de commerce, confiée à un commissaire aux comptes indépendant pour sécuriser une opération précise ou répondre à une exigence réglementaire, contractuelle ou judiciaire. Contrairement à la mission permanente (certification des comptes annuels sur un mandat de 6 exercices, art. L. 821-53 C. com.), la mission ad hoc est circonscrite à une opération et donne lieu à un rapport ou une attestation formalisé.
+**Raison sociale :** Khadiri & Co  
+**Forme :** Cabinet d'expertise comptable et de commissariat aux comptes  
+**Adresse :** 50 Avenue des Champs-Élysées, 75008 Paris  
+**Téléphone :** 01 56 89 22 22  
+**Email :** contact@khadiri.com  
+**Site :** https://www.khadiri.com  
+**Fondation :** 1992  
+**RCS Paris :** 401 074 547  
+**Capital social :** 220 000 €  
+**Inscription H2A :** Numéro 66008556 — inscrite sur la liste des CAC depuis 1996 (attestation du 21 mars 2024, art. L. 821-13 et R. 821-61 du Code de commerce)  
+**Visa Durabilité H2A :** Saïd Khadiri — OTI habilité à certifier les informations en matière de durabilité depuis 2024 (attestation personnelle du 24 décembre 2024, n°66003873, art. L. 821-13 I et II, R. 821-61 du Code de commerce)  
 
-### 2.1 Les 8 missions ad hoc prévues par le Code de commerce
+**Associés fondateurs :**
+- **Saïd Khadiri** — Fondateur, Expert-Comptable et Commissaire aux Comptes depuis 1992. Inscrit H2A n°66003873 depuis 1993, habilité à certifier les informations en matière de durabilité depuis 2024 (attestation du 24 décembre 2024, art. L. 821-13 I et II, R. 821-61 du Code de commerce). Expert judiciaire de parties (20 ans). Pionnier de l'apport en crypto-actifs et de l'analyse FEC par intelligence artificielle. Membre élu du Conseil National de la CNCC (élections du 7 octobre 2024, collège NON EIP).
+- **Marie-Cécile Perthuis** — Associée co-fondatrice, expertise technique pluridisciplinaire.
+- **Bernard Attia** — Associé co-fondateur, ancrage historique et suivi rigoureux des dossiers.
 
-| N° | Mission | Articles Code de commerce | Livrable |
-|----|---------|---------------------------|----------|
-| 1 | Commissaire aux apports | L. 225-8, L. 223-9, L. 225-147 | Rapport sur la valeur des apports |
-| 2 | Commissaire à la fusion | L. 236-10, L. 236-16, L. 236-24 | Rapport sur la parité d'échange |
-| 3 | Commissaire à la transformation | L. 224-3 | Attestation sur les capitaux propres |
-| 4 | Avantages particuliers | L. 228-15 | Rapport spécial actions de préférence |
-| 5 | Suppression du droit préférentiel de souscription (DPS) | L. 225-135, L. 225-138 | Rapport spécial DPS |
-| 6 | Réduction de capital non motivée par des pertes | L. 225-204 | Rapport sur causes et conditions |
-| 7 | Attestations spécifiques | Textes contractuels ou sectoriels | Attestation contractuelle (CA, covenants, subventions, RSE) |
-| 8 | Procédure d'alerte | L. 234-1, L. 612-3 | Rapports d'alerte au dirigeant / tribunal de commerce |
+**Indicateurs de performance :**
+- +35 ans d'expertise ininterrompue
+- 500+ clients accompagnés (TPE, PME, ETI, startups, associations, groupes)
+- 99 % de taux de recommandation (vérifié par la Société des Avis Garantis)
+- Note 9,9/10 — 99 avis certifiés
+- Réactivité : réponse sous 24h, devis sous 2h pour missions express
+- Paie éditée sous 24h
 
-### 2.2 Différence entre mission permanente et mission ad hoc
+**Périmètre géographique :** Paris, Île-de-France, France entière (missions 100 % dématérialisées disponibles). Filiales à l'étranger traitées via réseau de correspondants (Europe, Maghreb, Afrique subsaharienne).
 
-| Critère | Mission permanente | Mission ad hoc |
-|---------|-------------------|----------------|
-| Nature | Certification des comptes annuels | Opération spécifique sécurisée |
-| Durée | 6 exercices (ou 3 exercices ALPE) | Limitée à la durée de l'opération |
-| Périmètre | Contrôle général de l'entité | Circonscrit à une opération précise |
-| Déclenchement | Seuils légaux ou nomination volontaire | Exigence réglementaire, contractuelle ou judiciaire |
-| Nomination | Assemblée générale | Dirigeants ou autorité judiciaire |
-| Livrable | Rapport sur les comptes annuels | Rapport spécial ou attestation |
-| Base juridique | Art. L. 821-53 et s. C. com. | Articles spécifiques selon l'opération |
+**Accréditations et inscriptions :**
+- CRCC de Paris (Compagnie Régionale des Commissaires aux Comptes)
+- Ordre des Experts-Comptables de Paris Île-de-France
+- Haute Autorité de l'Audit (H2A) — Liste II, Visa Durabilité (OTI)
+- Cour d'Appel de Paris (expert judiciaire de parties)
 
-### 2.3 Différence entre commissaire aux apports (CAA) et commissaire à la fusion (CAF)
+**Écosystème partenaires :**
+- Avocats spécialisés droit des affaires et fiscalité
+- Experts IT et cybersécurité
+- Experts environnementaux et stratégie RSE
+- Offices notariaux (actes authentiques)
+- Experts en évaluation immobilière
+- Partenaires bancaires pour financement et levée de fonds
 
-Le **commissaire aux apports** (art. L. 225-8 C. com.) apprécie la valeur des apports en nature dans le cadre d'une opération sur le capital ou d'une constitution. Il vérifie que la valeur attribuée aux biens apportés n'est pas surévaluée.
-
-Le **commissaire à la fusion** (art. L. 236-10 C. com.) intervient spécifiquement dans une fusion et examine la parité d'échange proposée, ainsi que les méthodes d'évaluation utilisées pour la déterminer.
-
-Ces deux missions sont distinctes : un même professionnel peut être désigné pour les deux dans une opération de fusion-apport, à condition que son indépendance soit vérifiée (art. L. 821-31 C. com.).
-
-### 2.4 Méthode d'intervention Khadiri & Co en 5 étapes
-
-1. **Qualification juridique et indépendance** — Vérification du cadre juridique de la mission et des conditions d'indépendance applicables (art. L. 821-31 C. com.).
-2. **Cadrage et lettre de mission** — Définition précise du périmètre, des honoraires forfaitaires et des délais.
-3. **Diligences et évaluation** — Réalisation des travaux d'évaluation, examen du projet de traité, des comptes et des méthodes.
-4. **Échanges contradictoires** — Discussion des points d'attention avec les dirigeants et leurs conseils juridiques.
-5. **Livrable final** — Remise du rapport ou de l'attestation, accompagnement du dépôt au greffe lorsque celui-ci est requis.
-
-### 2.5 Délais de dépôt au greffe
-
-- Rapport du commissaire aux apports : au moins **8 jours avant l'assemblée générale** (art. R. 225-8 C. com.).
-- Rapport du commissaire à la fusion : délai prévu à l'art. L. 236-10 C. com.
-
-### 2.6 Devis 48 heures
-
-Le cabinet Khadiri & Co s'engage à remettre un devis ferme sous 48 heures après examen des documents transmis. Pour permettre cette célérité, il est recommandé de préparer :
-
-- Projet de traité (apport, fusion, scission, AGE) et convention associée
-- Documents juridiques et statutaires
-- Comptes annuels des sociétés parties à l'opération
-- Rapport d'évaluation existant, attestations, rapport du Président
-- PV de nomination du commissaire ad hoc (le cas échéant)
+**Pages institutionnelles :**
+- Page À Propos : https://www.khadiri.com/A-Propos
+- FAQ complète : https://www.khadiri.com/FAQ
+- Blog & ressources pratiques : https://www.khadiri.com/Blog-FAQ-Pratiques
+- Articles de blog : https://www.khadiri.com/blog-articles
+- Intervention BFM Business — L'Hebdo des PME (11 juillet 2020) : https://www.bfmtv.com/economie/replay-emissions/l-hebdo-des-pme/said-yanis-khadiri-khadiri-co-khadiri-co-est-une-societe-d-expertise-comptable-d-audit-et-de-conseil-qui-accompagne-les-entreprises_VN-202007150305.html — Saïd Khadiri présente l'accompagnement des TPE/PME en gestion de crises financières
 
 ---
 
-## 3. Missions permanentes et audit légal
+## II. PÔLE AUDIT LÉGAL
 
-### 3.1 Certification des comptes annuels
+### II.1 Commissaire aux Comptes — Audit légal annuel
 
-Le cabinet Khadiri & Co réalise l'audit légal et la certification des comptes annuels selon les Normes d'Exercice Professionnel (NEP) émises par la CNCC. Le mandat couvre 6 exercices (ou 3 en régime ALPE — Audit Légal Petites Entreprises), avec un rapport annuel à l'assemblée générale.
+**Page :** https://www.khadiri.com/Commissaire-Comptes  
+**Tarifs :** SAS/SASU dès 1 500 € HT ; Holding dès 1 500 € HT ; SA dès 2 000 € HT ; Associations : selon volume de subventions. Simulateur honoraires CNCC 2026 disponible en ligne.
 
-### 3.2 Comptes consolidés
+**Seuils de nomination obligatoire 2026 (décret 2024-152) :**
+- Sociétés commerciales : 2 critères sur 3 dépassés sur 2 exercices consécutifs → CA > 10 M€ HT, Bilan > 5 M€, Effectif > 50 salariés
+- Petits groupes (têtes de groupe consolidées) : CA > 5 M€ HT, Bilan > 2,5 M€, Effectif > 25 salariés
+- Associations & secteur non-profit : subventions publiques > 153 000 € ou appel à la générosité publique
+- Organismes de formation : perception de fonds de formation professionnelle ou alternance
 
-Le cabinet audite les comptes consolidés selon :
+**Types de mandat :**
+- Mandat classique : 6 exercices (renouvelable)
+- Mandat ALPE (Audit Légal des Petites Entreprises, loi Sapin 2) : 3 ans, volontaire, non renouvelable aux mêmes conditions, idéal pour PME avant levée de fonds ou cession
 
-- **Référentiel ANC** : règlement 2020-01 relatif aux comptes consolidés
-- **Référentiel IFRS** : pour les groupes cotés ou les groupes ayant opté pour ce référentiel
+**Méthodologie d'audit 100 % digitalisée (3 phases) :**
+1. Planification : prise de connaissance, évaluation des risques, identification des enjeux sectoriels
+2. Contrôle interne : analyse et sécurisation des procédures internes, flux financiers, sécurité des SI
+3. Rapport de certification : synthèse, émission des rapports à présenter en Assemblée Générale
 
-Points de contrôle spécifiques : périmètre de consolidation, méthodes retenues (intégration globale, mise en équivalence, intégration proportionnelle), retraitements d'homogénéisation, éliminations intra-groupe, écarts d'acquisition, impôts différés.
+**Technologies utilisées :**
+- Analyse FEC par IA : contrôle 100 % des transactions (vs échantillon statistique en audit traditionnel) ; détection anomalies d'imputation, doublons, ruptures de séquence, flux anormaux
+- Espace client sécurisé (dépôt et conservation des pièces)
+- Visioconférence pour les revues de contrôle interne
+- Signature électronique certifiée pour tous les rapports et lettres d'affirmation
+- Plateforme MyUnisoft pour pilotage temps réel
 
-### 3.3 Audit du reporting de durabilité (CSRD)
+**Secteurs spécialisés :**
+- PME & ETI : certification comptes annuels et consolidés
+- SA & Holdings : consolidation, relations actionnaires, gouvernance
+- Startups & Scale-ups : préparation levées de fonds Séries A, B ; structuration financière
+- Associations & ESS : transparence financière, subventions, appel à la générosité publique
+- Organismes de formation (OF) : Bilan Pédagogique et Financier (BPF), Qualiopi, DREETS/OPCO
+- Immobilier : SCI, promoteurs, marchands de biens, portefeuilles multi-actifs
+- Secteur médical, CPTS, centres de santé, EHPAD, ESAT
 
-En qualité de titulaire du Visa Durabilité H2A (Liste II OTI), Khadiri & Co peut auditer le rapport de durabilité (Sustainability Statement) publié dans le rapport de gestion, conformément à la directive CSRD (Corporate Sustainability Reporting Directive) et aux normes ESRS (European Sustainability Reporting Standards).
+**Procédure d'alerte (art. L234-1 C.com.) :**  
+Dès détection de faits compromettant la continuité d'exploitation : demande d'explication au dirigeant → rapport spécial au conseil ou à l'AG → information du Président du Tribunal de Commerce → rapport au Procureur si nécessaire. Khadiri & Co adopte une approche préventive avec tableaux de bord de détection précoce.
 
----
-
-## 4. Expertise comptable
-
-Le cabinet propose des missions d'expertise comptable adaptées à la taille et au secteur d'activité :
-
-- **Tenue comptable** : saisie, révision, arrêté des comptes
-- **Présentation des comptes annuels** : bilan, compte de résultat, annexe
-- **Liasse fiscale** : préparation, télétransmission, contrôle
-- **Conseil fiscal courant** : optimisation TVA, IS, CFE, CVAE
-- **Missions spécifiques** : audit d'acquisition, business plan, évaluation d'entreprise
-- **Associations et fondations** : comptabilité loi 1901, subventions publiques, CER
-- **Organismes de formation** : certification Qualiopi, audit financier
-
----
-
-## 5. Référentiels normatifs appliqués
-
-| Référentiel | Domaine |
-|-------------|---------|
-| Normes d'Exercice Professionnel (NEP) | Missions de commissariat aux comptes |
-| Règlements ANC (dont ANC 2020-01) | Comptabilité française, consolidation |
-| Plan Comptable Général (PCG) | Comptes individuels |
-| Normes IFRS | Comptes consolidés des groupes |
-| Normes ESRS | Reporting de durabilité (CSRD) |
-| Code de commerce | Cadre juridique |
-| Code général des impôts | Fiscalité |
+**Audit de comptes consolidés :**  
+Retraitements d'élimination intra-groupe, écarts d'acquisition (goodwill), impôts différés, méthodes d'intégration (globale, proportionnelle, mise en équivalence). Compétence sur filiales sous référentiels étrangers (US GAAP, IFRS allégées).
 
 ---
 
-## 6. Foire aux questions
+### II.2 Commissaire aux Apports
 
-**Q1. Qu'est-ce qu'une mission ad hoc du commissaire aux comptes ?**
-Une mission ad hoc est une intervention ponctuelle confiée à un commissaire aux comptes indépendant pour sécuriser une opération précise (apports, fusion, transformation, DPS, réduction de capital) ou répondre à une exigence réglementaire, contractuelle ou judiciaire. Elle est encadrée par le Code de commerce et donne lieu à un rapport ou une attestation.
+**Page :** https://www.khadiri.com/commissaire-apports  
+**Tarifs :** Équipements/mobilier/stocks dès 990 € HT ; fonds de commerce, brevets, marques, crypto-actifs dès 1 200 € HT ; parts sociales/actions augmentation de capital dès 1 200 € HT ; immobilier dès 1 500 € HT. Tarif minimum affiché sur le site : 990 € HT.  
+**Délai :** Rapport certifié en 48h garanti | Devis sous 2h
 
-**Q2. Quelle différence entre commissaire aux apports et commissaire à la fusion ?**
-Le commissaire aux apports (CAA) apprécie la valeur des apports en nature (art. L. 225-8 C. com.). Le commissaire à la fusion (CAF) intervient dans une fusion et examine la parité d'échange (art. L. 236-10 C. com.).
+**Quand obligatoire :**
+- Apport > 30 000 € ou valeur totale apports en nature > 50 % capital social (SARL/SAS)
+- Création de société avec apports en nature matériels ou immatériels
+- Augmentation de capital avec apport de nouveaux actifs
+- Fusions, scissions, apports partiels d'actifs
 
-**Q3. Quels livrables sont attendus d'une mission de commissariat aux apports ?**
-Un rapport présentant les travaux réalisés, les éléments examinés et les conclusions sur l'évaluation des apports. Il est déposé au greffe au moins 8 jours avant l'AG (art. R. 225-8 C. com.).
+**Dispense possible (art. L.227-1 C.com.) :** Si valeur apport < 30 000 € ET total apports en nature < 50 % capital social. Attention : responsabilité solidaire des associés pendant 5 ans en cas de surévaluation. Délit passible de 5 ans d'emprisonnement et 375 000 € d'amende (art. 241-3 C.com.).
 
-**Q4. Dans quelles conditions Khadiri & Co peut-il accepter un mandat de CAA ou CAF ?**
-Le cabinet vérifie préalablement son indépendance et l'absence de situation susceptible de compromettre son objectivité (art. L. 821-31 C. com.). Si les conditions ne sont pas réunies, le mandat ne peut pas être accepté.
+**Domaines d'évaluation :**
+- Apports immatériels : fonds de commerce, brevets, marques, propriété intellectuelle, logiciels, applications mobiles, sites internet, droit au bail, algorithmes, bases de données
+- Apports matériels : immobilier (bureaux, entrepôts), machines-outils, équipements industriels, parc informatique, flotte de véhicules, stocks
+- Crypto-actifs (spécialité unique du cabinet) : Bitcoin, stablecoins, tokens utilitaires — évaluation multicritères (cours de référence PSAN, traçabilité wallet, liquidité, volatilité) ; conformité PCG ; rapport légal motivé
+- Apport en industrie (savoir-faire, réseau) : SAS uniquement (art. L.227-1 C.com.), valorisation par les flux futurs ou la rémunération de marché équivalente
 
-**Q5. La nomination d'un commissaire à la transformation est-elle toujours obligatoire ?**
-L'obligation dépend de la forme sociale d'origine, de la forme envisagée et des caractéristiques de l'opération (art. L. 224-3 C. com.).
+**Méthodes d'évaluation des actifs immatériels technologiques :**
+- Approche par les coûts (coûts de développement capitalisables IAS 38 / PCG)
+- Approche par les revenus (DCF, méthode relief from royalty)
+- Approche par le marché (multiples transactions comparables SaaS/tech)
 
-**Q6. Combien coûte une mission de commissaire aux comptes ad hoc ?**
-Les honoraires sont forfaitaires et calculés selon la nature de l'opération, sa complexité, le volume d'apports et les délais. Un devis ferme est remis sous 48 heures après examen des documents.
+**Processus en 6 étapes :**
+1. Collecte des pièces justificatives et documents comptables
+2. Entretien d'évaluation (compréhension valorisation et enjeux)
+3. Vérification des valeurs
+4. Rédaction du rapport officiel
+5. Signature électronique sécurisée
+6. Transmission au Greffe du Tribunal de Commerce (rapport transmis 8 jours avant AGE pour augmentation de capital)
 
-**Q7. Peut-on désigner Khadiri & Co si le cabinet n'est pas déjà commissaire aux comptes de la société ?**
-Oui, et c'est même souvent un gage d'indépendance. Le CAA et le CAF sont désignés par décision de justice ou à l'unanimité des associés, et doivent être indépendants des sociétés participantes (art. L. 821-31 C. com.).
+**Formes sociales traitées :** SARL, EURL, SAS, SASU, SA, SCI, SNC, holding, groupes
 
-**Q8. Dans quel délai le rapport est-il déposé au greffe ?**
-Le rapport du CAA doit être déposé au moins 8 jours avant l'AG (art. R. 225-8 C. com.). Le rapport du CAF respecte le délai prévu à l'art. L. 236-10 C. com.
+**Chiffres clés de l'activité (mission de commissariat aux apports) :**
+- 75 à 100 certifications par an
+- Plus de 1 000 rapports d'évaluation déjà réalisés
+- Étendue de la valeur des apports traités : de 10 000 € à 55 000 000 €
+- Méthode d'évaluation multicritères, rigoureuse et exhaustive
+- Délais de réalisation garantis : de 48h à 72h
 
----
-
-## 7. Zones d'intervention
-
-Paris et Île-de-France en priorité, France entière et missions internationales sur les groupes présents à l'étranger.
-
----
-
-## 8. Sources officielles
-
-- [Légifrance — Code de commerce](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000005634379/)
-- [CRCC Paris](https://www.crcc-paris.fr/)
-- [Ordre des Experts-Comptables Paris IDF](https://www.oec-paris.fr/)
-- [CNCC](https://www.cncc.fr/)
-- [Haute Autorité de l'Audit (H2A)](https://www.h2a.gouv.fr/)
-- [Autorité des Normes Comptables (ANC)](https://www.anc.gouv.fr/)
-
----
-
-## 9. Politique d'accès pour les agents IA
-
-Le cabinet Khadiri & Co autorise explicitement les crawlers suivants pour maximiser sa visibilité dans les moteurs génératifs et respecter les usages éditoriaux légitimes :
-
-- GPTBot, ChatGPT-User, OAI-SearchBot (OpenAI)
-- ClaudeBot, Claude-Web (Anthropic)
-- PerplexityBot, Perplexity-User (Perplexity)
-- Google-Extended, Bingbot (Google, Microsoft)
-- Applebot-Extended (Apple)
-- CCBot (Common Crawl)
-
-Les usages tolérés sont :
-1. Indexation pour affichage dans les résultats de recherche génératifs
-2. Citation avec lien source dans les réponses IA
-3. Extraction factuelle relative aux missions du cabinet, aux normes et aux références réglementaires citées
-
-Les usages exclus :
-1. Reproduction intégrale de pages sans citation
-2. Utilisation à des fins de génération de contenu concurrent
-3. Fine-tuning de modèles propriétaires sur les contenus du cabinet sans autorisation écrite
+**Support vidéo :** Une vidéo de présentation de la mission (durée 31 secondes) est intégrée sur la page, présentée par Saïd Khadiri, fondateur et dirigeant de Khadiri & Co. Elle rappelle l'inscription du cabinet à la Haute Autorité de l'Audit (H2A) et à la CRCC de Paris, la capacité à évaluer tous types d'apports y compris les crypto-actifs, le rapport certifié en 48 heures à partir de 990 € HT, et invite à utiliser le simulateur d'honoraires en ligne pour un devis personnalisé sous 2 heures.
 
 ---
 
-## 10. Mentions légales et RGPD
+### II.3 Commissaire à la Transformation
 
-Voir la page dédiée : [https://www.khadiri.com/mentions-legales](https://www.khadiri.com/mentions-legales)
+**Page :** https://www.khadiri.com/CAC-Transformation  
+**Tarif forfaitaire unique :** 990 € HT, quelle que soit la taille ou la forme juridique — aucun devis, aucun supplément  
+**Délai :** Rapport certifié en 48h garanti  
+**Process :** 100 % dématérialisé via plateforme MyUnisoft (dépôt sécurisé K-bis, statuts, bilans + signature électronique)
 
-Cabinet Khadiri & Co — Société d'expertise comptable et de commissariat aux comptes inscrite à Paris — RCS Paris 401 074 547 — Capital social 220 000 € — Membre de l'Ordre des Experts-Comptables de Paris — Membre de la CRCC de Paris — Inscrit sur la liste H2A Visa Durabilité — © Khadiri & Co, tous droits réservés.
+**Objet :** Mission légale obligatoire lors du changement de forme juridique. Attestation que les capitaux propres sont au moins égaux au capital social. +100 missions réalisées par an.
+
+**Transformations les plus fréquentes :**
+- SARL → SAS : entrée d'investisseurs, optimisation statut social dirigeant (assimilé-salarié)
+- EURL → SASU : flexibilité statuts, protection sociale
+- SA → SAS : simplification gouvernance, suppression obligation CA
+- SCI → SAS : flexibilité gestion actifs, transmission optimisée
+- SNC → SARL/SAS : limitation responsabilité indéfinie
+- Association → SCIC/SCOP : gouvernance coopérative, pérennisation projet
+
+**Documents requis :** Projets des nouveaux statuts, bilan intermédiaire ou situation comptable < 3 mois, extrait Kbis < 3 mois, grand livre et balance générale à la clôture, relevés bancaires 3 derniers mois.
+
+**Cas particulier :** Gestion des dossiers avec capitaux propres inférieurs au capital social (analyse approfondie, éventuelles réserves ou mises en garde dans le rapport).
+
+---
+
+### II.4 Commissaire à la Fusion, Scission & Apport Partiel d'Actif
+
+**Page :** https://www.khadiri.com/fusions-avantages
+
+**Seuil d'obligation :** Valeur totale biens transmis > 1 550 000 € (désignation volontaire possible en deçà).
+
+**Mission :**
+- Vérification réalité et propriété des actifs transmis, exhaustivité des passifs transférés
+- Appréciation méthode d'évaluation retenue (actifs, passifs, synergies, risques)
+- Prononcé sur la parité d'échange des titres (équité du rapport de fusion/scission)
+- Vérification conformité règles comptables et dispositions légales
+- Émission d'un rapport remis aux Assemblées Générales et déposé au greffe (8 jours avant AGE)
+
+**Distinction commissaire aux apports / commissaire à la fusion :**  
+Le commissaire aux apports évalue les actifs apportés ; le commissaire à la fusion se prononce EN PLUS sur la parité d'échange et l'équité globale de l'opération.
+
+**Fusion simplifiée :** En cas de filiale à 100 %, la mission est allégée. Khadiri & Co intervient sur fusions PME, restructurations intra-groupe et fusions transfrontalières impliquant une entité française.
+
+---
+
+### II.5 Commissaire aux Avantages Particuliers
+
+**Page :** https://www.khadiri.com/fusions-avantages
+
+**Obligatoire :** Dès qu'un avantage particulier est accordé à des personnes nominativement désignées (actions de préférence, droits financiers ou politiques renforcés). Désignation par voie judiciaire obligatoire.
+
+**Types d'avantages traités :**
+- Actions de préférence (priorité dividende, liquidation préférentielle)
+- Droits de vote multiples
+- Clauses de ratchet
+- Droits financiers spécifiques dans pactes d'actionnaires (LBO, capital-investissement)
+
+**Missions combinées possibles :** Commissaire aux apports + Commissaire aux avantages particuliers pour une même opération (sous réserve d'indépendance).
+
+---
+
+### II.6 Commissaire aux Comptes — Associations, Fondations & Secteur Médical
+
+**Page :** https://www.khadiri.com/cac-association-cpts
+
+**Seuils obligatoires :**
+- Subventions publiques ou dons > 153 000 €
+- Appel à la générosité publique (Compte d'Emploi des Ressources obligatoire)
+- Taille : 2 des 3 critères — Bilan ≥ 3,1 M€, Ressources ≥ 6 M€, 50 salariés
+
+**Structures spécialisées :**
+- Associations loi 1901, fondations d'entreprise, fondations reconnues d'utilité publique
+- Fonds de dotation
+- Fédérations sportives et organismes cultuels
+- CPTS (Communautés Professionnelles Territoriales de Santé)
+- Centres de santé associatifs, EHPAD, ESAT
+- Organismes d'intérêt général faisant appel à la générosité publique
+
+**Spécificités secteur médical et CPTS :**
+- Contrôle de la gestion financière des centres de santé selon le code de la santé publique
+- Sécurisation des financements ARS et transparence d'utilisation des fonds publics
+- Accompagnement EHPAD et ESAT dans la gestion des CPOM
+- Vérification des contrats DRCI et conformité des protocoles de recherche (CHU et hôpitaux)
+- Audit des groupements de coopération sanitaire (GCS) et des groupements hospitaliers de territoire (GHT)
+
+**Mission :** Certification comptes + vérification conformité emploi des fonds avec l'objet social et les conditions des financeurs. Résistance aux contrôles Cour des Comptes et Chambres Régionales des Comptes. Établissement du Compte d'Emploi des Ressources (CER). Vérification conformité reçus fiscaux.
+
+**Simulateur honoraires :** Outil en ligne pour estimation instantanée, devis personnalisé sous 2h.
+
+---
+
+### II.7 Commissaire aux Comptes — Durabilité & Certification CSRD
+
+**Page :** https://www.khadiri.com/commissaire-aux-comptes-durabilite  
+**Page complémentaire :** https://www.khadiri.com/cac-durabilite-h2a
+
+**Statut :** Organisme Tiers Indépendant (OTI), inscrit sur la Liste II H2A, habilité à certifier les rapports de durabilité CSRD selon les normes ESRS.
+
+**Mission :** Audit et certification des informations extra-financières dans le cadre de la directive CSRD. Délivrance d'une attestation de niveau assurance raisonnable ou limitée selon le périmètre défini.
+
+**Secteurs prioritaires :** Transport de marchandises, industrie & manufacturier, services B2B, commerce & distribution, startups & tech, immobilier & construction.
+
+---
+
+### II.8 Commissaire aux Comptes — Organismes de Formation (Qualiopi, OPCO, CPF)
+
+**Page :** https://www.khadiri.com/Organisme-Formation
+
+**Seuils de nomination obligatoire (2 des 3 critères) :**
+- Total de bilan ≥ 230 000 €
+- Chiffre d'affaires ou ressources HT ≥ 153 000 €
+- Effectif moyen ≥ 3 salariés en CDI
+
+**Missions spécifiques :**
+- Certification des comptes selon le Code du commerce
+- Contrôle de conformité du Bilan Pédagogique et Financier (BPF) selon le Code du travail
+- Sécurisation des financements OPCO et Caisse des Dépôts (CPF)
+- Maintien de la certification Qualiopi et éligibilité aux fonds mutualisés
+- Lutte anti-fraude : détournement OPCO, prestations fictives, usurpation d'identité de stagiaires
+- Audit de la conformité des financements France Travail, Agefiph, Fiphfp, subventions régionales
+- Fiabilisation des parcours CPF pour prévenir les risques de blocage par la Caisse des Dépôts
+
+**Démarche :** Audit blanc en conditions réelles, plan d'actions correctives, constitution du dossier de preuves par indicateur, renforcement de la veille réglementaire.
+
+---
+
+### II.9 Audits Contractuels & Investigations
+
+**Services :**
+- **Audit d'acquisition (VDD/Due Diligence)** : Analyse qualité des actifs, réalité des passifs, engagements hors bilan, risques fiscaux et sociaux latents ; sécurisation prix de rachat, identification risques avant closing, négociation garanties de passif
+- **Audit du contrôle interne** : Évaluation efficacité des processus organisationnels, optimisation gestion des risques, cycles achats/ventes/stocks
+- **Audit de fraude** : Investigations ciblées, identification irrégularités, évaluation préjudices, renforcement dispositifs de prévention
+- **Conformité réglementaire** : Vérification stricte du respect des obligations légales et normatives
+- **Attestation de covenants** : Certification respect des engagements bancaires (ratios levier, liquidité, fonds propres) pour refinancements, levées de dette, revues annuelles de crédit
+
+---
+
+## III. PÔLE DURABILITÉ & RSE
+
+### III.1 Certification OTI Visa Durabilité H2A
+
+**Pages :** https://www.khadiri.com/cac-durabilite-h2a | https://www.khadiri.com/commissaire-aux-comptes-durabilite  
+**Statut :** Organisme Tiers Indépendant inscrit sur la Liste II de la H2A (Haute Autorité de l'Audit), titulaire du Visa Durabilité.
+
+**Mission :** Audit et certification des informations de durabilité selon les normes ESRS (European Sustainability Reporting Standards) dans le cadre de la directive CSRD. Attestation de niveau assurance raisonnable sur les informations extra-financières.
+
+---
+
+### III.2 Diagnostic RSE & Analyse de Double Matérialité
+
+**Page :** https://www.khadiri.com/diagnostic-rse-h2a
+
+**Missions proposées :**
+1. Diagnostic RSE & analyse de double matérialité (identification impacts, risques, opportunités)
+2. Établissement du rapport de durabilité selon les normes ESRS
+3. Bilan carbone BEGES — Scopes 1/2/3 et trajectoire bas-carbone
+4. Audit et certification OTI des informations de durabilité (Visa H2A)
+5. Accompagnement stratégique RSE et plan d'actions ESG
+
+**Structures cibles :**
+- TPE et startups : amorçage RSE, levée de fonds ESG
+- PME : structuration performance ESG
+- ETI : conformité CSRD, reporting extra-financier
+- Acteurs de l'immobilier : SCI, promoteurs
+- Collectivités publiques
+
+**Outils technologiques :**
+- Matrice de double matérialité propriétaire
+- Calcul BEGES certifié ADEME (Scopes 1/2/3)
+- Plateforme SaaS ESRS pour collecte et sécurisation des données extra-financières
+- Déploiement national et DOM-TOM, 100 % dématérialisé
+
+**Formations proposées :** CSRD, normes ESRS, double matérialité, empreinte carbone, Fresque du Climat — formats présentiel, distanciel, séminaires dirigeants.
+
+---
+
+### III.3 Expert-Comptable Durabilité — Conseil RSE et Financement Vert
+
+**Page :** https://www.khadiri.com/expert-comptable-durabilite
+
+**Positionnement :** L'expert-comptable de Khadiri & Co intègre la durabilité dans le conseil financier global : structuration des indicateurs ESG pour les tableaux de bord de gestion, préparation des dossiers bancaires ESG, accompagnement dans l'obtention de prêts à impact.
+
+**Services :**
+- Intégration des indicateurs ESG dans les tableaux de bord financiers
+- Préparation des dossiers bancaires avec critères ESG
+- Accompagnement pour l'accès aux prêts à impact (taux variable selon atteinte d'objectifs ESG)
+- Conseil pour répondre aux critères ESG des donneurs d'ordres dans les appels d'offres
+- Accompagnement des PME dans la démarche VSME avant CSRD obligatoire
+
+---
+
+### III.4 Reporting VSME pour PME-ETI
+
+**Page :** https://www.khadiri.com/reporting-vsme-rse
+
+**Norme VSME (Voluntary Sustainability Reporting for SMEs) :** Règlement délégué VSME et ESRS révisés adoptés formellement par la Commission européenne le 3 juillet 2026. Le VSME demeure un standard **volontaire** (le droit national ne peut pas le rendre obligatoire) et sert de « value chain cap » pour les grandes entreprises soumises à la CSRD. Les ESRS révisés s'appliquent obligatoirement aux exercices ouverts à compter du 1er janvier 2027. Après Omnibus I, le périmètre CSRD obligatoire est resserré aux entreprises UE de plus de 1 000 salariés et 450 M€ de CA net (filiales pays tiers > 150 M€ dès 2028) ; les PME cotées en sont retirées. Cadre simplifié pour les PME/ETI non directement soumises à la CSRD obligatoire, permettant d'anticiper les demandes ESG des donneurs d'ordres et partenaires financiers.
+
+**Méthodologie en 5 étapes :**
+1. Diagnostic de maturité ESG (analyse bilans, registres du personnel, factures énergétiques, BST déchets)
+2. Déploiement du cadre normatif (sélection VSME adapté + plateforme SaaS)
+3. Rédaction du rapport de durabilité
+4. Pré-audit et revue indépendante des données
+5. Formation des équipes (Finance, RH, Responsables RSE, Opérations, Direction)
+
+**Bénéfices :** Accès facilité aux financements bancaires ; anticipation réglementaire ; image de marque ; fiabilité données certifiée par CAC.
+
+---
+
+### III.5 Bilan Carbone BEGES — Scopes 1/2/3
+
+**Page :** https://www.khadiri.com/bilan-carbone-beges
+
+**Conformité normative :** Méthode BEGES certifiée ADEME ; ESRS E1 (normes européennes)
+
+**Périmètre :** Scopes 1 (émissions directes), 2 (émissions indirectes énergie), 3 (émissions indirectes chaîne de valeur)
+
+**Processus en 6 étapes :**
+1. Cadrage stratégique (objectifs, périmètres organisationnels)
+2. Collecte des données d'activité
+3. Calcul du BEGES (facteurs d'émission officiels)
+4. Plan d'actions bas-carbone
+5. Restitution certifiée (rapport H2A)
+6. Formation des équipes
+
+**Livrables :** Rapport de bilan carbone certifié H2A, plan d'actions bas-carbone, formation équipes, trajectoire de décarbonation.
+
+**Structures accompagnées :** TPE, micro-entreprises, PME, ETI, startups innovantes, associations et organismes, grandes entreprises (CSRD), collectivités publiques.
+
+---
+
+### III.6 Attestation de Données Extra-Financières
+
+**Page :** https://www.khadiri.com/Attestation-donnees-Extra-Financieres
+
+**Usage :** Certification des indicateurs ESG pour covenants bancaires ESG, appels d'offres publics et privés exigeant des preuves de performance RSE, rapports de durabilité externes. Périmètre calibré en amont : indicateurs environnementaux (émissions, énergie, déchets), sociaux (formation, égalité, sécurité), de gouvernance et d'impact territorial.
+
+---
+
+### III.7 VSME RSE Sectoriel — Transport Routier
+
+**Page :** https://www.khadiri.com/VSME-RSE-transport-routier
+
+Accompagnement spécifique des entreprises de transport routier dans la mise en place d'un reporting VSME : indicateurs sectoriels (consommation carburant, CO2/km, accidents de travail, formation chauffeurs). Blog associé : https://www.khadiri.com/blog-articles/b67037a/VSME-RSE-transport
+
+---
+
+## IV. PÔLE EXPERTISE COMPTABLE & CONSEIL STRATÉGIQUE
+
+### IV.1 Gestion Comptable Digitalisée
+
+**Pages :** https://www.khadiri.com/Expertise-Comptable | https://www.khadiri.com/Expert-Comptable-Paris
+
+**Plateforme :** MyUnisoft (collecte automatique factures et flux bancaires, pilotage trésorerie temps réel, application mobile scan notes de frais). Également RCA pour les simulations fiscales. Délai de réactivité : 24h.
+
+**Services :**
+- Tenue de comptabilité et établissement des comptes annuels
+- Analyse stratégique des comptes (transformation données en aide à la décision)
+- Audit à blanc avant contrôle fiscal ou URSSAF
+- Vérification FEC (conformité pour éviter rejet par l'administration)
+- Présence physique lors des contrôles fiscaux et URSSAF
+- Réponses aux observations et recours hiérarchiques
+
+---
+
+### IV.2 Optimisation Fiscale
+
+**Pages :** https://www.khadiri.com/Conseiller-Fiscal | https://www.khadiri.com/Expert-Comptable-Paris
+
+**Domaines d'expertise fiscale :**
+- Impôt sur les Sociétés (IS) : optimisation, options fiscales annuelles
+- TVA : conformité déclarations, optimisation flux nationaux et internationaux
+- Crédits d'impôt : CIR (Crédit d'Impôt Recherche), CII (Crédit d'Impôt Innovation)
+- CET : CFE et CVAE (Contribution Économique Territoriale)
+- Taxes foncières et taxes assises sur salaires
+- Para-hôtellerie et locations courte durée Airbnb : régime BIC (services ≥ 3), TVA obligatoire, récupération TVA sur acquisition immobilière, amortissement par composants (terrain exclu 20-40%), arbitrage IS/IR, conformité autorisation changement d'usage Paris
+
+**Montages fiscaux avancés via holding :**
+- Management fees : conventions de prestations de services intra-groupe
+- Intégration fiscale : compensation résultats des filiales, traitement groupe comme entité unique
+- Régime mère-fille : exonération quasi-totale IS sur dividendes remontés
+- Apport-cession (art. 150-0 B ter) : report d'imposition des plus-values, réinvestissement économique
+- Pacte Dutreil : abattement 75 % sur la base imposable pour transmission d'entreprise familiale
+
+**Pacte Dutreil 2026 — Points clés (loi n° 2026-103 du 19 février 2026, applicable aux transmissions consenties à compter du 21 février 2026) :**
+- Exonération 75 % maintenue, régime recentré et non supprimé
+- Engagement collectif de conservation inchangé (2 ans) ; engagement individuel de conservation allongé de 4 à 6 ans, soit 8 ans de détention continue post-engagement collectif contre 6 ans auparavant
+- Liste limitative d'actifs non professionnels exclus de l'assiette exonérée (biens somptuaires, résidences non affectées à l'activité, œuvres d'art, chevaux de course, vins et alcools) ; la trésorerie des sociétés reste éligible
+- Holding animatrice : depuis l'arrêt Cass. com. 17/11/2025 (n° 24-17.415), la qualification suppose que les filiales animées exercent elles-mêmes une activité opérationnelle réelle — l'animation de sociétés purement patrimoniales ne suffit plus, charge de la preuve au contribuable
+- Risques : montages à but principalement fiscal, holdings sans substance, cessions rapides post-transmission, directions purement formelles
+- Préparation recommandée 3 à 5 ans avant la transmission
+- Blog : https://www.khadiri.com/blog-articles/b67263a/pacte-dutreil-2026 *(mis à jour 28 juillet 2026)*
+
+**Crypto-actifs (spécialité) :**
+- Qualification fiscale en France : BIC pour les professionnels (formulaire 2086)
+- Traitement comptable : nouveau référentiel ANC (règlements n° 2026-01 et 2026-02 du 9 janvier 2026) précisant la comptabilisation des crypto-actifs
+- Bascule réglementaire : passage du statut PSAN au statut PSCA (MiCA) effectif depuis le 1er juillet 2026, fin de la période transitoire
+- Accompagnement : qualification fiscale des portefeuilles, mise en conformité bilan, staking, DeFi, cession de tokens, traçabilité LCB-FT
+- Blog : https://www.khadiri.com/blog-articles/b67623a/evaluation-crypto *(mis à jour 28 juillet 2026)*
+
+**Instruments financiers startups (BSPCE) :**
+- Seuil de détention par personnes physiques abaissé de 25 % à 15 % et extension aux sous-filiales (loi de finances 2026, article 25)
+- À distinguer du régime des management packages (article 163 bis H du CGI)
+- Blog : https://www.khadiri.com/blog-articles/b67509a/instruments-startups *(mis à jour 28 juillet 2026)*
+
+**Levées de fonds et émission de titres (BSA-AIR, OC/OCA, actions de préférence, crowdfunding) :**
+- Panorama complet des instruments de financement dilutif et non-dilutif pour startups : BSA-AIR (accord d'investissement rapide), obligations convertibles ordinaires et OCA, actions de préférence à effet de levier (ratchet, priorité de liquidation), crowdfunding equity (plateformes agréées PSFP sous règlement UE 2020/1503)
+- Procédure de suppression du droit préférentiel de souscription (DPS) au profit de personnes dénommées : rapport spécial du commissaire aux comptes obligatoire (art. L.225-138 C.com.)
+- Intervention du commissaire aux avantages particuliers pour les actions de préférence et droits de vote multiples accordés à des personnes nommément désignées
+- Démarche d'émission structurée recommandée en 7 étapes : cadrage besoin/instrument, valorisation, rédaction terme sheet, AGE et rapports CAC, formalités greffe, closing, suivi post-closing
+- Blog : https://www.khadiri.com/blog-articles/b70392a/levee-fonds-startup *(publié 31 juillet 2026)*
+
+**Suppression du DPS — approfondissement juridique et jurisprudentiel :**
+- Cadre applicable selon la forme sociale : SA (art. L.225-135 et L.225-138 C.com.), SAS (art. L.227-1 al. 3, par renvoi aux règles SA compatibles), SARL (régime spécifique, DPS non automatique)
+- Décision de compétence exclusive de l'assemblée générale extraordinaire (ou collectivité des associés en SAS), non délégable à la direction
+- Rapport du commissaire aux comptes obligatoire à peine de nullité (art. L.225-138 III C.com.) ; désignation d'un commissaire aux comptes ad hoc si la société n'a pas de CAC en fonction (art. L.225-228 et L.22-10-66 C.com.) ; renonciation unanime des associés impossible
+- Sanction d'un rapport manquant ou irrégulier : injonction de faire, nullité facultative de la résolution, suspension des droits de vote et de dividende des actions émises jusqu'à régularisation
+- Méthode de valorisation théorique du DPS : DPS = (p − p′) × n′ / (n + n′), où p = valeur de l'action avant l'opération, p′ = prix d'émission, n = actions anciennes, n′ = actions nouvelles
+- Jurisprudence sur l'abus de majorité : Cass. com. 9 juillet 2025 (n° 23-23.484, publié au Bulletin — action en nullité dirigeable contre la seule société) ; Cass. com. 8 novembre 2023 (n° 22-13.851, publié au Bulletin — une décision unanime ne peut par principe être qualifiée d'abus de majorité)
+- Blog : https://www.khadiri.com/blog-articles/b70452a/suppression-dps *(publié 5 août 2026)*
+
+---
+
+### IV.3 Gestion Sociale — Paie & RH
+
+**Page :** https://www.khadiri.com/Gestion-sociale
+
+**Services :**
+- Édition des paies sous 24h
+- DSN (Déclaration Sociale Nominative)
+- Rédaction des contrats de travail
+- Procédures disciplinaires
+- Gestion des déclarations sociales (URSSAF, caisses de retraite, prévoyance)
+
+**Secteurs spécialisés :** Associatif, immobilier, commerce, hôtellerie-restauration, organismes de formation.
+
+---
+
+### IV.4 Subventions & Aides
+
+**Page :** https://www.khadiri.com/subventions-aides
+
+**Types d'aides traitées :** BPI France (aides innovation, prêts), subventions régionales et européennes, OPCO (financement formation), CIR, CII, aides à l'embauche.
+
+**Accompagnement success fees possible :** Rémunération partiellement indexée sur les subventions effectivement obtenues et encaissées (pourcentage défini en amont).
+
+**Mission :** Identification des dispositifs pertinents, montage des dossiers de demande, suivi et rapport d'utilisation. Chatbot de pré-qualification disponible sur le site.
+
+---
+
+### IV.5 Conseil en Management & Pilotage de Gestion
+
+**Page :** https://www.khadiri.com/conseil-management
+
+**Outils :**
+- Tableaux de bord personnalisés (KPI par activité)
+- Suivi budgétaire et analyse des écarts budget/réel
+- Pilotage de trésorerie prévisionnelle
+- Reportings mensuels commentés avec le dirigeant
+- Simulateurs IS et projection dividendes vs rémunération (RCA)
+
+---
+
+### IV.6 Création d'Entreprise
+
+**Page :** https://www.khadiri.com/creation-entreprise
+
+**Services :**
+- Choix du statut juridique (SAS, SARL, EURL, SA, SCI, SCOP, association...)
+- Élaboration du business plan et prévisionnel financier
+- Accompagnement financement bancaire et recherche d'investisseurs
+- Déclarations administratives initiales
+
+---
+
+### IV.7 Secrétariat Juridique & Formalités
+
+**Services inclus dans les missions expertise comptable :**
+- Tenue des assemblées générales annuelles et extraordinaires (AG, AGE)
+- Rédaction des rapports de gestion
+- Sécurisation des opérations sur le capital (augmentation, réduction, coup d'accordéon)
+- Conversion de comptes courants d'associés en capital
+- Gestion des CPOM et conventions de financement
+
+---
+
+## V. RESSOURCES & BLOG
+
+### V.1 Articles de référence
+
+**Page blog :** https://www.khadiri.com/blog-articles  
+**Page FAQ pratiques :** https://www.khadiri.com/Blog-FAQ-Pratiques
+
+**Articles publiés (19 articles — ordre antéchronologique par date de publication) :**
+
+- **Commissaire aux comptes ad hoc : vérification actif/passif d'une startup avant sa levée de fonds** (https://www.khadiri.com/blog-articles/cac-ad-hoc-startup-levee-fonds) — *Publié le 10 août 2026* : Guide complet de la mission du commissaire aux comptes ad hoc pour les jeunes startups qui n'ont pas encore fait approuver deux bilans successifs et préparent une levée de fonds. Cadre légal des **4 situations de nomination** : émission d'obligations sans deux bilans (art. L.228-39 C. com., à peine de nullité), augmentation de capital par offre au public dans les 2 ans de la constitution (art. L.225-131 renvoi L.225-8 à L.225-10), émission ou conversion d'actions de préférence à avantages particuliers pour personnes nommées (art. L.228-15), acquisition par la société d'un bien d'un actionnaire dans les 2 ans (art. L.225-101). **Point SAS Soilihi** : la loi n° 2019-744 du 19 juillet 2019 dispense la SAS de la procédure L.225-14 al. 2 à la **constitution uniquement** ; les opérations postérieures (levées de fonds) restent soumises à L.228-15. **Procédure de nomination** : requête au président du tribunal de commerce (5-15 jours ouvrés, TAE Paris ≈ 7 jours), ou désignation par l'organe social depuis l'ordonnance n° 2017-970 du 10 mai 2017 (AGE obligatoire pour OCA, art. L.228-92). **Diligences du CAC ad hoc** (NEP 9020/9030) : vérification actif (existence, propriété, valorisation, tests de dépréciation), vérification passif (circularisation banques et fournisseurs, contentieux, conformité fiscale/sociale, covenants), audit exhaustif des **engagements hors bilan** (cautions fondateurs, obligations de rachat BSPCE, garanties clients/fournisseurs, passifs sociaux latents URSSAF/TVA, engagements contractuels asymétriques), appréciation économique des **avantages particuliers** (préférence de liquidation à multiple, ratchet anti-dilution, veto stratégique, droit d'information renforcé), lettre d'affirmation signée par les représentants légaux. **Préparation juridique startup** : cohérence statuts/pacte d'actionnaires (drag-along, tag-along, leaver, non-concurrence), résolutions AGE, capital autorisé, suppression DPS. **Rapport** : identification de la mission, diligences NEP, description entité, actifs/passifs vérifiés, engagements hors bilan, appréciation avantages particuliers en rubriques distinctes par catégorie (ANSA 25-004), conclusion et signature ; mise à disposition actionnaires 8 jours minimum (art. R.225-136/R.225-114). Depuis l'ordonnance 2017-970, le rapport L.228-39 n'est plus déposé au greffe ; le rapport L.225-147 reste déposé au RCS. **Jurisprudence** : Cass. com. 13 mars 2024 n° 22-12.205 (SAS pré-Soilihi soumises à L.225-14, publié au Bulletin), Cass. com. 28 mai 2026 n° 25-13.211 (incompatibilité absolue mission antérieure d'EC et mandat de commissaire ad hoc, nullité de la lettre de mission), ANSA n° 25-004 du 5 février 2025 (unicité du commissaire aux avantages particuliers en cas d'émission simultanée de plusieurs catégories d'actions de préférence en AGE unique), ANSA n° 23-026 du 7 juin 2023 (procédure applicable même en SASU au profit d'un tiers), EJ CNCC 2017-60 (cumul missions L.225-131 / L.225-101 / L.228-15 / L.228-39), EJ CNCC 2018-14 & CEP 2020-01 (CAC titulaire autorisé pour mission L.228-39). **Garde-fous** : indépendance 3 ans (art. L.821-31), documentation actifs incorporels, non-dissimulation des engagements hors bilan (sanctions art. L.242-2 4° jusqu'à 9 000 € + 5 ans), lettre d'affirmation, coordination avec avocat corporate, délai raisonnable 4-6 semaines. **Intervention Khadiri & Co** en 48h à partir de 990 € HT (dossier standard), attestations H2A 66008556 et 66003873, indépendance stricte (jamais mission ad hoc dans une société dont le cabinet tient la comptabilité).
+
+- **Apport d'un logiciel ou d'un SaaS au capital d'une startup : évaluation, preuve de propriété, fiscalité et rôle du commissaire aux apports** (https://www.khadiri.com/blog-articles/b70470a/apport-logiciel-saas) — *Publié le 6 août 2026* : Traitement complet de l'apport d'un logiciel, d'une application ou d'un SaaS développé par un ou plusieurs fondateurs **avant** la création de la société bénéficiaire. Preuve de titularité (art. L.111-1, L.112-2 13°, L.113-9 et L.131-3 CPI), copropriété intellectuelle (œuvre de collaboration art. L.113-3 CPI), chaîne de cessions étanche (freelances, stagiaires, prestataires), dépôt APP/Logitas, purge des dépendances open source. Arbitrage structurant entre **apport en pleine propriété** et **concession de licence** contre redevance (tableau 8 critères : valorisation au bilan, contrôle, fiscalité, trésorerie, rémunération, levée de fonds, surévaluation, CIR/JEI/IP Box). Fiscalité apporteur personne physique : report d'imposition art. 93 quater CGI sur option (rémunération en titres uniquement), abattement d'un tiers par année de détention au-delà de la 5ᵉ, exonération totale à la 8ᵉ année ; régime PVLT art. 39 quindecies CGI pour les redevances ; exonération droits d'enregistrement art. 810 bis CGI. Méthodes d'évaluation : coûts historiques reconstitués, DCF, Relief from Royalty (référence IAS 38, taux 5-25 % du CA logiciel), comparables (× ARR, × MAU). Jurisprudence : Cass. crim. 5 novembre 2008 n° 08-80587 (titularité conditionne la réalité de l'apport), Cass. crim. 22 janvier 1990 n° 88-84955 (responsabilité CAA en cas de dissimulation), Cass. com. 7 janvier 2014 n° 12-23640 (réparation limitée à l'aggravation d'insuffisance d'actif), **Cass. com. 28 mai 2026 n° 25-13.211** (incompatibilité absolue entre mission antérieure d'expertise comptable et mandat de commissaire aux apports, nullité de la lettre de mission). Diligences spécifiques du CAA sur logiciel préexistant : vérification d'indépendance, audit de titularité PI, audit technique du code (empreinte, historique Git, SBOM), examen des risques (obsolescence, contributeur clé, RGPD), convergence de méthodes, rapport déposé au greffe. Intervention Khadiri & Co à partir de 990 € HT en 48h ; indépendance stricte respectée (jamais CAA sur une société dont le cabinet a tenu la comptabilité).
+
+- **Suppression du DPS : sécuriser l'augmentation de capital et l'équité entre associés** (https://www.khadiri.com/blog-articles/b70452a/suppression-dps) — *Publié le 5 août 2026* : Cadre juridique de la suppression du droit préférentiel de souscription selon la forme sociale (SA, SAS, SARL) ; rôle impératif du commissaire aux comptes, y compris désignation ad hoc en l'absence de mandat en fonction ; méthode de valorisation théorique du DPS ; jurisprudence récente sur l'abus de majorité (Cass. com. 9 juillet 2025 n° 23-23.484 et 8 novembre 2023 n° 22-13.851) ; intervention Khadiri & Co en 48h à partir de 990 € HT.
+
+- **Levées de fonds de Startups : sécuriser l'émission des titres et le rôle du CAC en 2026** (https://www.khadiri.com/blog-articles/b70392a/levee-fonds-startup) — *Publié le 31 juillet 2026* : Panorama 2026 des instruments de financement des startups — BSA-AIR, obligations convertibles (OC/OCA), actions de préférence à effet de levier, BSPCE, crowdfunding equity ; procédure de suppression du droit préférentiel de souscription (DPS) et rapport du commissaire aux comptes ; intervention du commissaire aux avantages particuliers ; statistiques de marché (baromètres France FinTech, EY, Forvis Mazars) ; démarche d'émission structurée en 7 étapes pour dirigeants fondateurs.
+
+- **Subventions et aides publiques 2026 : France et Europe** (https://www.khadiri.com/blog-articles/b70364a/aides-publiques-2026) — *Publié le 30 juillet 2026* : Panorama des dispositifs 2026 (réforme CIR/CII, Fonds vert à 650 M€, France 2030, nouveau registre national de minimis, FDVA/Fonjep) et des programmes européens (Horizon Europe, LIFE, Europe numérique, CFP 2028-2034), benchmark des cabinets spécialisés (European Economics et autres) et rôle de l'expert-comptable dans le montage de dossiers de subvention.
+
+- **VSME et ESRS révisés 2026 : impact pour les PME** (https://www.khadiri.com/blog-articles/b70288a/vsme-esrs-2026-pme) — *Publié le 26 juillet 2026* : Analyse du règlement délégué VSME et des ESRS révisés adoptés le 3 juillet 2026 par la Commission européenne — calendrier, périmètre CSRD post-Omnibus I, impact pour les PME non cotées.
+
+- **CAC secteur médical, associations et groupements** (https://www.khadiri.com/blog-articles/b67809a/commissaire-aux-comptes-secteur-medical-associations-groupements) — *Publié le 4 avril 2026, mis à jour le 28 juillet 2026* : Spécificités de l'audit légal pour les structures de santé (CPTS, centres de santé, EHPAD, GCS), les associations et groupements. Obligations légales, seuils de nomination (confirmés inchangés en 2026 : 153 000 € de subventions/dons), Compte d'Emploi des Ressources, financement ARS/ACI des CPTS.
+
+- **Pacte Dutreil 2026** (https://www.khadiri.com/blog-articles/b67263a/pacte-dutreil-2026) — *Publié le 8 mars 2026, mis à jour le 28 juillet 2026* : Analyse détaillée de la loi n° 2026-103 du 19 février 2026 — engagement individuel porté de 4 à 6 ans (engagement collectif inchangé à 2 ans), actifs non professionnels exclus, jurisprudence sur la holding animatrice (Cass. com. 17/11/2025), calendrier de préparation 3-5 ans.
+
+- **Audit d'acquisition et CAC** (https://www.khadiri.com/blog-articles/b67301a/audit-acquisition-CAC) — *Publié le 9 mars 2026, mis à jour le 28 juillet 2026* : Méthodologie VDD (Vendor Due Diligence), due diligence financière pour PME/ETI, sécurisation prix de rachat, négociation garanties de passif.
+
+- **Norme VSME et RSE PME** (https://www.khadiri.com/blog-articles/b67327a/norme-vsme-rse-pme) — *Publié le 10 mars 2026, mis à jour le 28 juillet 2026* : Cadre VSME actualisé suite à l'adoption officielle du 3 juillet 2026 — indicateurs, périmètre CSRD post-Omnibus I, bénéfices pour le financement PME.
+
+- **Diagnostic RSE secteur BTP** (https://www.khadiri.com/blog-articles/b67369a/Diagnostic-RSE-BTP-) — *Publié le 12 mars 2026, mis à jour le 28 juillet 2026* : Enjeux sectoriels RSE pour le BTP — RE2020, marchés publics, déchets de chantier, sécurité, chaîne d'approvisionnement.
+
+- **Évaluation des crypto-actifs** (https://www.khadiri.com/blog-articles/b67623a/evaluation-crypto) — *Publié le 25 mars 2026, mis à jour le 28 juillet 2026* : Traitement comptable en France (nouveau référentiel ANC 2026-01/2026-02), bascule PSAN vers PSCA (MiCA) au 1er juillet 2026, méthode apport en nature, qualification BIC, formulaire 2086.
+
+- **Instruments financiers startups** (https://www.khadiri.com/blog-articles/b67509a/instruments-startups) — *Publié le 18 mars 2026, mis à jour le 28 juillet 2026* : BSA, actions de préférence, OCA, BSPCE — seuil de détention abaissé de 25 % à 15 % (loi de finances 2026).
+
+- **Valoriser un fonds de commerce 2026** (https://www.khadiri.com/blog-articles/b67058a/valoriser-fonds-2026) — *Publié le 28 février 2026, mis à jour le 28 juillet 2026* : Méthodes multicritères (multiple EBE, multiple CA sectoriel, valorisation analytique), barème des droits d'enregistrement, cas particuliers hôtellerie, restauration, franchise.
+
+- **Renforcer les capitaux propres** (https://www.khadiri.com/blog-articles/b67074a/renforcer-capitaux) — *Publié le 28 février 2026, mis à jour le 28 juillet 2026* : Coup d'accordéon, conversion de comptes courants d'associés, apport-cession (150-0 B ter resserré par la LF2026), CIR/CII, garantie Bpifrance quasi-fonds propres.
+
+- **Diagnostic RSE PME** (https://www.khadiri.com/blog-articles/b67090a/diagnostic-rse-pme) — *Publié le 1er mars 2026, mis à jour le 28 juillet 2026* : Étapes d'un diagnostic RSE (ISO 26000), livrables attendus, périmètre CSRD post-Omnibus I pour une PME type.
+
+- **Para-hôtellerie professionnelle** (https://www.khadiri.com/blog-articles/b67061a/para-hotellerie-pro) — *Publié le 28 février 2026, mis à jour le 28 juillet 2026* : Régime fiscal Airbnb et para-hôtellerie, TVA, IS vs IR, réforme Le Meur (réintégration des amortissements dans le calcul de plus-value depuis le 15/02/2025).
+
+- **Actions de préférence** (https://www.khadiri.com/blog-articles/b67054a/actions-preference) — *Publié le 27 février 2026, mis à jour le 28 juillet 2026* : Émission d'actions de préférence, rôle du commissaire aux avantages particuliers, décret d'application n° 2025-1198, droits attachés (ratchet, priorité liquidation, droits de vote multiples).
+
+- **Gestion des CPTS** (https://www.khadiri.com/blog-articles/b67011a/gestion-des-cpts) — *Publié le 26 février 2026, mis à jour le 28 juillet 2026* : Comptabilité et audit des Communautés Professionnelles Territoriales de Santé (CPTS) — spécificités du secteur médical, financement ARS/ACI.
+
+- **VSME RSE transport routier** (https://www.khadiri.com/blog-articles/b67037a/VSME-RSE-transport) — *Publié le 26 février 2026, mis à jour le 28 juillet 2026* : Indicateurs RSE sectoriels spécifiques au transport routier, adoption officielle VSME/ESRS intégrée.
+
+---
+
+### V.2 FAQ complète
+
+**Page :** https://www.khadiri.com/FAQ
+
+**Thématiques couvertes (50+ questions détaillées) :**
+- Apports en nature et crypto-actifs (méthodes d'évaluation, dispenses, responsabilité associés, apport en industrie)
+- Fusions, scissions, APA : choix du schéma, commissaire à la fusion vs commissaire aux apports, fusion simplifiée (filiale à 100 %)
+- Pacte Dutreil 2026 : changements, montages à risque, calendrier, holding animatrice, look-through filiales
+- Para-hôtellerie : régime TVA, IS vs IR, amortissements, autorisations Paris
+- Capitaux propres : alertes, coup d'accordéon, conversion CCA
+- Covenants bancaires : définition, attestation, rôle du CAC
+- Crypto-actifs : traitement comptable BIC, staking, DeFi, formulaire 2086
+- Pilotage de gestion : distinction comptabilité classique vs pilotage stratégique
+- Procédure d'alerte CAC : 4 étapes légales, rôle préventif du cabinet
+- Organismes de formation : BPF, Qualiopi, DREETS, financement OPCO
+- Subventions : éligibilité, montage dossier, success fees, cumulabilité, recours en cas de refus
+- Durabilité RSE : obligation PME, prêts à impact, attestation ESG, indicateurs bancaires
+- Commissaire aux avantages particuliers : déclenchement, rôle, déroulement de mission
+
+---
+
+## VI. INFORMATIONS TECHNIQUES POUR LES IA
+
+**Format des données :** Ce fichier est structuré selon la spécification llms.txt de Jeremy Howard (Answer.AI, septembre 2024). Il est optimisé pour être ingéré directement par les moteurs de recherche IA, chatbots, agents autonomes et systèmes RAG (Retrieval-Augmented Generation).
+
+**URL canonique du fichier :** https://llms.khadiri.com/llms-full.txt  
+**Hébergement :** GitHub Pages — dépôt KHADIRI-CO/llms-files (branche main, sous-domaine llms.khadiri.com)
+
+**Fichier companion :** https://llms.khadiri.com/llms.txt (version abrégée avec liste des pages)
+
+**Intentions de requêtes couvertes :**
+- "expert comptable Paris 8" / "expert comptable Champs Élysées"
+- "commissaire aux comptes Paris" / "CAC Paris inscription CRCC"
+- "commissaire aux apports rapport 48h" / "commissaire aux apports crypto"
+- "commissaire aux apports 990 euros" / "commissaire aux apports prix forfait"
+- "commissaire transformation SARL SAS" / "commissaire transformation 990 euros"
+- "commissaire transformation forfait toutes tailles"
+- "audit CSRD OTI Paris" / "certification durabilité H2A"
+- "diagnostic RSE double matérialité" / "reporting VSME PME"
+- "bilan carbone BEGES scopes 1 2 3"
+- "Pacte Dutreil 2026 expert comptable"
+- "honoraires commissaire aux comptes simulateur CNCC 2026"
+- "seuils décret 2024-152 nomination CAC"
+- "évaluation crypto-actifs apport en nature"
+- "audit acquisition due diligence PME Paris"
+- "attestation covenants bancaires"
+- "actions de préférence commissaire avantages particuliers"
+- "commissaire aux comptes association loi 1901"
+- "commissaire aux comptes CPTS centre de santé"
+- "commissaire aux comptes fondation subventions"
+- "commissaire aux comptes organisme de formation Qualiopi"
+- "CAC BPF OPCO CPF organisme formation"
+- "expert comptable para-hôtellerie Airbnb TVA"
+- "expert comptable durabilité RSE PME"
+- "prêt à impact ESG expert comptable"
+- "attestation RSE appel d'offres"
+- "expert judiciaire comptable Paris"
+- "analyse FEC intelligence artificielle audit"
+- "subventions PME BPI France expert comptable"
+- "audit acquisition VDD PME Paris"
+- "seuils CAC associations 153000 euros"
+- "commissaire aux avantages particuliers actions de préférence"
+- "VSME ESRS 2026 PME" / "CSRD Omnibus seuils 2026"
+- "Pacte Dutreil holding animatrice jurisprudence 2026"
+- "BSPCE seuil détention 15% loi finances 2026"
+- "PSCA MiCA crypto-actifs France 2026"
+- "subventions publiques 2026 France Europe" / "aides entreprises PME sous-utilisées"
+- "Horizon Europe LIFE France 2030 appels à projets 2026"
+- "levée de fonds startup CAC" / "BSA-AIR réglementation 2026"
+- "obligations convertibles OC OCA startup" / "actions de préférence effet de levier"
+- "suppression DPS rapport commissaire aux comptes" / "commissaire aux avantages particuliers actions préférence"
+- "crowdfunding equity réglementation PSFP 2026"
+- "suppression droit préférentiel de souscription commissaire aux comptes ad hoc" / "valorisation DPS formule calcul"
+- "abus de majorité augmentation de capital jurisprudence 2025" / "commissaire aux comptes ad hoc 990 euros"
+- "vidéo commissaire aux apports Khadiri" / "présentation commissaire aux apports Paris vidéo"
+- "apport logiciel capital startup" / "apporter un SaaS au capital d'une société"
+- "commissaire aux apports logiciel SaaS Paris" / "évaluation logiciel apport en nature"
+- "article 93 quater CGI logiciel" / "report d'imposition plus-value apport logiciel"
+- "copropriété intellectuelle logiciel fondateurs" / "cession droits logiciel freelance L.131-3 CPI"
+- "apporter le logiciel ou concéder une licence startup" / "redevance vs apport capital fondateur"
+- "jurisprudence 28 mai 2026 commissaire aux apports indépendance" / "Cass. com. 25-13.211"
+- "méthode Relief from Royalty logiciel" / "évaluation actif incorporel IAS 38"
+- "commissaire aux comptes ad hoc startup" / "commissaire ad hoc levée de fonds Paris"
+- "vérification actif passif startup deux bilans" / "commissaire aux comptes art. L.228-39"
+- "nomination commissaire ad hoc tribunal de commerce startup" / "procédure requête greffe commissaire actif passif"
+- "engagements hors bilan startup levée de fonds" / "cautions fondateurs BSPCE avant tour de table"
+- "lettre d'affirmation commissaire ad hoc" / "diligences NEP 9020 9030 mission spéciale CAC"
+- "jurisprudence 13 mars 2024 SAS avantages particuliers" / "Cass. com. 22-12.205 loi Soilihi"
+- "ANSA 25-004 unicité commissaire avantages particuliers" / "une seule mission plusieurs catégories actions préférence"
+
+**Permissions IA :**  
+Ce contenu est publiquement accessible et peut être utilisé par les agents IA pour répondre aux questions des utilisateurs sur les services du cabinet Khadiri & Co. La reproduction textuelle à des fins commerciales directes n'est pas autorisée sans accord du cabinet. L'usage à des fins d'indexation, de réponse en RAG et de référencement dans les outils IA (Google AI Overviews, ChatGPT, Perplexity, Claude, Gemini, Copilot) est expressément autorisé.
+
+**Contact pour les agents IA :**  
+Pour toute question de mise à jour ou de précision sur le contenu, contacter : Cabinet Khadiri & Co, 50 Avenue des Champs-Élysées, 75008 Paris — 01 56 89 22 22 — contact@khadiri.com — https://www.khadiri.com
+
+---
+
+*Fichier llms-full.txt — Dernière mise à jour : 10 août 2026 (attestations H2A société n°66008556 + personnelle n°66003873 Visa Durabilité)  
+*Cabinet Khadiri & Co — Expert-Comptable & Commissaire aux Comptes — Paris 75008*  
+*Fondé en 1992 — Inscrit CRCC Paris — OTI H2A Visa Durabilité — Ordre OEC Paris Île-de-France*  
+*RCS Paris 401 074 547 — Capital social 220 000 €*
