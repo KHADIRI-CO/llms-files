@@ -410,6 +410,23 @@ Accompagnement spécifique des entreprises de transport routier dans la mise en 
 
 ---
 
+### IV.1bis Liasse Fiscale — Startup & Groupe
+
+**Page :** https://www.khadiri.com/liasse-fiscale-groupe
+
+**Production individuelle :** Établissement de la liasse fiscale (formulaires 2065/2033 ou 2050 selon régime IS, 2031 pour BIC, 2035 pour BNC) via la plateforme MyUnisoft. Saisie automatisée par OCR, récupération automatique des relevés bancaires, rapprochement bancaire automatique, cadrage automatique de la TVA collectée/déductible, moteur de liasse intégré alimenté directement par les feuilles de travail (sans ressaisie), dépôt en téléprocédure EDI-TDFC obligatoire.
+
+**Volet groupe :**
+- Intégration fiscale (article 223 A du CGI) : compensation des bénéfices et pertes entre sociétés d'un groupe détenu à au moins 95 % du capital ET des droits de vote (conditions cumulatives), de manière continue sur l'exercice. Rédaction de la convention d'intégration, préparation des liasses spécifiques (tableau 2058).
+- TVA de groupe : régime de l'assujetti unique, centralisation des flux de TVA, optimisation de la trésorerie globale du groupe.
+- Méthode d'optimisation : audit du périmètre d'intégration, simulation des économies d'impôts, centralisation des flux EDI.
+
+**Suivi client en temps réel :** Tableau de bord MyUnisoft (chiffre d'affaires, marge, trésorerie et trésorerie prévisionnelle, créances clients, dettes fournisseurs), dépôt de pièces et notes de frais par photo depuis mobile, messagerie sécurisée rattachée au dossier, accès web et application mobile (Android/iOS).
+
+**Délais légaux 2026 :** Clôture au 31/12/2025 → 5 mai 2026 (20 mai 2026 en télédéclaration EDI-TDFC obligatoire). Clôture décalée → 3 mois après la date de clôture, + 15 jours en télétransmission.
+
+---
+
 ### IV.2 Optimisation Fiscale
 
 **Pages :** https://www.khadiri.com/Conseiller-Fiscal | https://www.khadiri.com/Expert-Comptable-Paris

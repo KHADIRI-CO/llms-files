@@ -37,6 +37,7 @@ Mots-clés : expert-comptable Paris, commissaire aux comptes Paris, commissaire 
 ## Pôle Expertise Comptable & Conseil
 
 - [Expertise comptable Paris — Pôle conseil](https://www.khadiri.com/Expertise-Comptable) : Gestion comptable MyUnisoft ; fiscalité (CIR, CII, IS, TVA, CET) ; gestion sociale (paie, DSN, contrats) ; création d'entreprise ; conseil en gestion ; accompagnement durable
+- [Liasse fiscale Startup & Groupe — Intégration fiscale, TVA, EDI-TDFC](https://www.khadiri.com/liasse-fiscale-groupe) : Production et dépôt de la liasse fiscale (IS 2065, BIC 2031, BNC 2035) via MyUnisoft — saisie automatisée OCR, cadrage TVA, moteur de liasse intégré. Volet groupe : intégration fiscale (art. 223 A CGI, détention ≥ 95 % capital et droits de vote), TVA de groupe (assujetti unique), rédaction convention d'intégration. Tableau de bord client temps réel (CA, marge, trésorerie), dépôt de pièces par photo. Délais 2026 : 5 mai (20 mai en télédéclaration) pour clôture au 31/12.
 - [Expert-Comptable Paris — Gestion fiscale & pilotage](https://www.khadiri.com/Expert-Comptable-Paris) : Optimisation IS, TVA, CIR/CII, intégration fiscale, holding (frais de gestion, régime mère-fille, apport-cession, Pacte Dutreil 75 %), contrôles fiscaux, URSSAF ; plateforme MyUnisoft + IA
 - [Conseiller fiscal Paris](https://www.khadiri.com/Conseiller-Fiscal) : Montages fiscaux avancés, holdings, para-hôtellerie Airbnb (acquisition TVA récupération), crypto-actifs (BIC, 2086, staking, DeFi), contrôles fiscaux et URSSAF
 - [Gestion sociale — Paie & RH](https://www.khadiri.com/Gestion-sociale) : Gestion de paie sous 24h, DSN, contrats de travail, procédures disciplinaires ; secteurs associatif, immobilier, commerce
@@ -75,5 +76,5 @@ Mots-clés : expert-comptable Paris, commissaire aux comptes Paris, commissaire 
 - [llms-full.txt — Contenu complet pour IA](https://llms.khadiri.com/llms-full.txt) : Version exhaustive structurée pour RAG, agents autonomes et indexation par les LLMs (Google AI Overviews, ChatGPT, Perplexity, Claude, Gemini, Copilot)
 
 ---
-*Dernière mise à jour : 10 août 2026 (attestations H2A société n°66008556 + personnelle n°66003873 Visa Durabilité) — Cabinet Khadiri & Co, 50 Avenue des Champs-Élysées, 75008 Paris — Tél. 01 56 89 22 22*
+*Dernière mise à jour : 11 août 2026 (ajout page Liasse fiscale Startup & Groupe ; attestations H2A société n°66008556 + personnelle n°66003873 Visa Durabilité) — Cabinet Khadiri & Co, 50 Avenue des Champs-Élysées, 75008 Paris — Tél. 01 56 89 22 22*
 *Contenu sous licence : usage libre pour indexation et entraînement des IA à des fins informationnelles non commerciales*
