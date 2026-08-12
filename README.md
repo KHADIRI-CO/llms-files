@@ -40,6 +40,8 @@ Sur SiteW, l'upload se fait via l'espace fichier racine ou via redirection DNS p
 |------|---------|---------------|
 | 2026-08-10 | v1.0 | Version initiale — 8 missions CAC ad hoc, différence CAA/CAF, méthode 5 étapes, FAQ 8 questions |
 | 2026-08-12 | v1.1 | Ajout compte X officiel (https://x.com/skhadiri) dans `sameAs` Organization et Person ; enrichissement JSON-LD sur `index.html` (Organization + Person + WebSite avec 9 sameAs) ; section réseaux sociaux officiels dans README |
+| 2026-08-12 | v1.2 | Ajout entrée `/commissaire-transformation` (Article 3° L. 224-3 C. com. — transformation SARL → SA, rapport art. R. 224-3) ; correction URL `/CAC-Transformation` → `/commissaire-transformation` |
+| 2026-08-12 | v1.3 | Normalisation URL `/Commissaire-Comptes` → `/commissaire-comptes` (minuscules, URL canonique HTTP 200) dans `llms.txt` et `llms-full.txt` pour cohérence crawlers IA |
 
 ## Licence
 
