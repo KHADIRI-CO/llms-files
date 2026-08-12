@@ -162,24 +162,30 @@ Retraitements d'élimination intra-groupe, écarts d'acquisition (goodwill), imp
 
 ### II.3 Commissaire à la Transformation
 
-**Page :** https://www.khadiri.com/CAC-Transformation  
-**Tarif forfaitaire unique :** 990 € HT, quelle que soit la taille ou la forme juridique — aucun devis, aucun supplément  
-**Délai :** Rapport certifié en 48h garanti  
-**Process :** 100 % dématérialisé via plateforme MyUnisoft (dépôt sécurisé K-bis, statuts, bilans + signature électronique)
+**Page :** https://www.khadiri.com/commissaire-transformation  
+**Tarif forfaitaire unique :** 990 € HT, quelle que soit la taille ou la forme juridique de la société — aucun devis à rallonge, aucun supplément caché (devis ferme confirmé sous 2 heures)  
+**Délai :** Rapport certifié en 48 heures ouvrées après réception du dossier complet  
+**Process :** 100 % dématérialisé via plateforme MyUnisoft (dépôt sécurisé K-bis, statuts, bilans + signature électronique conforme eIDAS)
 
-**Objet :** Mission légale obligatoire lors du changement de forme juridique. Attestation que les capitaux propres sont au moins égaux au capital social. +100 missions réalisées par an.
+**Objet et cadre légal :** Mission légale obligatoire lors du changement de forme juridique d'une société qui ne dispose pas déjà d'un commissaire aux comptes. Le commissaire à la transformation atteste que le montant des capitaux propres est au moins égal au capital social à la date du dernier bilan (ou d'une situation intermédiaire arrêtée à moins de 6 mois). Deux fondements textuels : article L. 224-3 du Code de commerce (transformation en SAS ou SASU) et article L. 223-43 du Code de commerce (transformation en SARL). Le rapport doit être établi et déposé au greffe préalablement à la décision de transformation. Plus de 100 missions réalisées par an par Khadiri & Co.
 
 **Transformations les plus fréquentes :**
-- SARL → SAS : entrée d'investisseurs, optimisation statut social dirigeant (assimilé-salarié)
-- EURL → SASU : flexibilité statuts, protection sociale
-- SA → SAS : simplification gouvernance, suppression obligation CA
-- SCI → SAS : flexibilité gestion actifs, transmission optimisée
-- SNC → SARL/SAS : limitation responsabilité indéfinie
-- Association → SCIC/SCOP : gouvernance coopérative, pérennisation projet
+- SARL → SAS : entrée d'investisseurs, optimisation statut social du dirigeant (assimilé-salarié), flexibilité statutaire, actions de préférence, pactes d'actionnaires
+- EURL → SASU : flexibilité des statuts, protection sociale du président, ouverture ultérieure du capital
+- SA → SAS : simplification de la gouvernance, suppression de l'obligation de conseil d'administration et de directoire, seuils CAC assouplis
+- SCI → SAS : flexibilité de gestion des actifs, transmission optimisée, sortie du régime de la transparence fiscale
+- SNC → SARL / SAS : limitation de la responsabilité indéfinie et solidaire des associés
+- Association loi 1901 → SCIC / SCOP : gouvernance coopérative, pérennisation du projet, capital variable
 
-**Documents requis :** Projets des nouveaux statuts, bilan intermédiaire ou situation comptable < 3 mois, extrait Kbis < 3 mois, grand livre et balance générale à la clôture, relevés bancaires 3 derniers mois.
+**Contenu du rapport :** Vérification de la sincérité des comptes retenus, valorisation des actifs et passifs, absence d'événements post-clôture susceptibles de remettre en cause l'équivalence capital / capitaux propres, attestation finale permettant la décision de transformation par l'organe compétent.
 
-**Cas particulier :** Gestion des dossiers avec capitaux propres inférieurs au capital social (analyse approfondie, éventuelles réserves ou mises en garde dans le rapport).
+**Documents requis :** Projet des nouveaux statuts, statuts en vigueur, trois derniers exercices comptables (bilans, comptes de résultat, annexes), situation comptable intermédiaire de moins de 6 mois si le dernier bilan a plus de 6 mois, extrait Kbis à jour, grand livre et balance générale à la clôture, relevés bancaires des 3 derniers mois, projet de procès-verbal de l'organe compétent, pièce d'identité du représentant légal.
+
+**Différence avec le commissaire aux apports :** Le commissaire à la transformation intervient lors du changement de forme juridique d'une société existante (équivalence capitaux propres / capital social). Le commissaire aux apports intervient lors d'apports en nature au capital (constitution ou augmentation) et apprécie la non-surévaluation de la valeur retenue par les parties. Les deux missions peuvent être cumulées sur un même dossier lorsque la transformation s'accompagne d'apports en nature.
+
+**Cas particulier capitaux propres insuffisants :** Si les capitaux propres sont inférieurs au capital social à la date de la mission, la transformation en SAS, SASU ou SARL ne peut pas être décidée en l'état. Les associés doivent au préalable soit reconstituer les capitaux propres (recapitalisation, apport en compte courant bloqué convertible en capital, réduction de capital motivée par des pertes puis augmentation), soit modifier le projet de transformation. Le commissaire à la transformation ne peut délivrer une attestation positive tant que l'équivalence n'est pas rétablie ; il peut le cas échéant émettre des réserves motivées dans son rapport.
+
+**Opposabilité au greffe :** Dès lors qu'il est établi par un commissaire aux comptes régulièrement inscrit à la CRCC et déposé au greffe préalablement à la décision de transformation, le rapport est opposable. Le greffe vérifie uniquement la présence du rapport et l'inscription du commissaire. Khadiri & Co est inscrit à la CRCC de Paris (annuaire officiel n° 66008556).
 
 ---
 
