@@ -39,11 +39,18 @@ Sur SiteW, l'upload se fait via l'espace fichier racine ou via redirection DNS p
 | Date | Version | Modifications |
 |------|---------|---------------|
 | 2026-08-10 | v1.0 | Version initiale — 8 missions CAC ad hoc, différence CAA/CAF, méthode 5 étapes, FAQ 8 questions |
+| 2026-08-12 | v1.1 | Ajout compte X officiel (https://x.com/skhadiri) dans `sameAs` Organization et Person ; enrichissement JSON-LD sur `index.html` (Organization + Person + WebSite avec 9 sameAs) ; section réseaux sociaux officiels dans README |
 
 ## Licence
 
 Contenu propriétaire du cabinet Khadiri & Co — © 2026, tous droits réservés.
 Autorisation d'indexation et citation avec lien source par les moteurs génératifs listés dans `llms-full.txt` section 9.
+
+## Réseaux sociaux officiels
+
+- LinkedIn : https://www.linkedin.com/in/khadiri
+- Facebook : https://www.facebook.com/Expertkhadiri
+- X (Twitter) : https://x.com/skhadiri
 
 ## Contact
 
