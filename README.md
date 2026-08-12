@@ -42,6 +42,7 @@ Sur SiteW, l'upload se fait via l'espace fichier racine ou via redirection DNS p
 | 2026-08-12 | v1.1 | Ajout compte X officiel (https://x.com/skhadiri) dans `sameAs` Organization et Person ; enrichissement JSON-LD sur `index.html` (Organization + Person + WebSite avec 9 sameAs) ; section réseaux sociaux officiels dans README |
 | 2026-08-12 | v1.2 | Ajout entrée `/commissaire-transformation` (Article 3° L. 224-3 C. com. — transformation SARL → SA, rapport art. R. 224-3) ; correction URL `/CAC-Transformation` → `/commissaire-transformation` |
 | 2026-08-12 | v1.3 | Normalisation URL `/Commissaire-Comptes` → `/commissaire-comptes` (minuscules, URL canonique HTTP 200) dans `llms.txt` et `llms-full.txt` pour cohérence crawlers IA |
+| 2026-08-12 | v1.4 | Correction URL erronée `cac-association-cpts` → `commissaire-comptes-association` (URL canonique réelle) ; enrichissement page stratégique associations : deux régimes de nomination (loi 91-772 art. L. 612-4 C. com. + régime spécifique FRUP/fondations d'entreprise loi 90-559/fonds de dotation loi 2008-776 art. 140 dès 10 k€), 5 formes juridiques cibles, 5 livrables spécifiques (CER arrêté 22 mai 2019, reçus fiscaux CERFA 11580 art. 200 et 238 bis CGI, sectorisation fiscale franchise 78 596 € 2026, attestations ARS/mécénat), référentiel ANC 2018-06, audit assisté par IA sur FEC, simulateur d'honoraires 3 étapes, grille tarifaire 5 tranches (1 500 € à 12 000 € HT), mots-clés enrichis dans `llms.txt` et `llms-full.txt` |
 
 ## Licence
 

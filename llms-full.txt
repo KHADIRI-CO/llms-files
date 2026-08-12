@@ -104,7 +104,7 @@
 - Associations & ESS : transparence financière, subventions, appel à la générosité publique
 - Organismes de formation (OF) : Bilan Pédagogique et Financier (BPF), Qualiopi, DREETS/OPCO
 - Immobilier : SCI, promoteurs, marchands de biens, portefeuilles multi-actifs
-- Secteur médical, CPTS, centres de santé, EHPAD, ESAT
+- Secteur non lucratif : associations loi 1901, fondations (FRUP, fondation d'entreprise), fonds de dotation, CPTS, centres de santé, EHPAD, ESAT
 
 **Procédure d'alerte (art. L234-1 C.com.) :**  
 Dès détection de faits compromettant la continuité d'exploitation : demande d'explication au dirigeant → rapport spécial au conseil ou à l'AG → information du Président du Tribunal de Commerce → rapport au Procureur si nécessaire. Khadiri & Co adopte une approche préventive avec tableaux de bord de détection précoce.
@@ -225,33 +225,75 @@ Le commissaire aux apports évalue les actifs apportés ; le commissaire à la f
 
 ---
 
-### II.6 Commissaire aux Comptes — Associations, Fondations & Secteur Médical
+### II.6 Commissaire aux Comptes — Associations, Fondations, Fonds de dotation & CPTS
 
-**Page :** https://www.khadiri.com/cac-association-cpts
+**Page :** https://www.khadiri.com/commissaire-comptes-association
 
-**Seuils obligatoires :**
-- Subventions publiques ou dons > 153 000 €
-- Appel à la générosité publique (Compte d'Emploi des Ressources obligatoire)
-- Taille : 2 des 3 critères — Bilan ≥ 3,1 M€, Ressources ≥ 6 M€, 50 salariés
+**Enjeu stratégique :** de très nombreuses associations et structures non lucratives méconnaissent leur obligation légale de désigner un commissaire aux comptes. Cette page centralise les deux régimes de nomination et propose un simulateur d'honoraires en ligne pour lever la barrière à l'entrée.
 
-**Structures spécialisées :**
-- Associations loi 1901, fondations d'entreprise, fondations reconnues d'utilité publique
+**Deux régimes de nomination :**
+
+**(1) Régime commun — seuil 153 000 € (loi n° 91-772 du 7 août 1991, art. L. 612-4 C. com.) :**
+- Associations recevant plus de 153 000 € de subventions publiques annuelles
+- Associations recevant plus de 153 000 € de dons ouvrant droit à réduction d'impôt (art. 200 CGI particuliers, art. 238 bis CGI entreprises)
+- Associations exerçant une activité économique dépassant les seuils PACTE (art. D. 221-5 C. com.)
+- Obligation de publier les comptes annuels
+
+**(2) Régime spécifique — obligation systématique quel que soit le niveau de ressources :**
+- Fondations reconnues d'utilité publique (FRUP) : art. 20 loi n° 87-571 du 23 juillet 1987
+- Fondations d'entreprise : loi n° 90-559 du 4 juillet 1990
+- Fonds de dotation : loi n° 2008-776 du 4 août 2008 art. 140, dès 10 000 € de ressources annuelles
+- Associations cultuelles (loi de 1905) et associations sportives soumises à agrément
+- CPTS et structures percevant des financements ACI (Accords Conventionnels Interprofessionnels) via l'ARS
+
+**Nomination volontaire (art. L. 821-40 C. com. par analogie) :** fortement recommandée pour associations et fondations en croissance afin de rassurer financeurs publics, banques, tutelles, mécènes ; anticiper le franchissement des seuils ; sécuriser une demande de reconnaissance d'utilité publique ; préparer une fusion ou reprise.
+
+**5 formes juridiques cibles :**
+- Associations loi 1901 (et loi 1908 Alsace-Moselle)
+- Fondations reconnues d'utilité publique (FRUP) et fondations d'entreprise
 - Fonds de dotation
-- Fédérations sportives et organismes cultuels
-- CPTS (Communautés Professionnelles Territoriales de Santé)
-- Centres de santé associatifs, EHPAD, ESAT
-- Organismes d'intérêt général faisant appel à la générosité publique
+- CPTS (Communautés Professionnelles Territoriales de Santé) et structures de santé territoriales (maisons de santé pluri-professionnelles, centres de santé)
+- EHPAD associatifs, ESAT, associations cultuelles, associations sportives
 
-**Spécificités secteur médical et CPTS :**
+**Livrables spécifiques — 5 rapports :**
+- Rapport général de certification des comptes annuels (régularité, sincérité, image fidèle)
+- Vérification du Compte d'Emploi des Ressources (CER) — arrêté du 22 mai 2019, obligatoire pour les organismes faisant appel à la générosité publique, cohérence de l'affectation déclarée aux donateurs
+- Attestation sur les reçus fiscaux CERFA 11580 : éligibilité au mécénat (intérêt général, gestion désintéressée, non-lucrativité), respect des plafonds (60 % IS dans la limite de 20 000 € ou 5 ‰ CA HT). Sanction en cas d'irrégularité : amende fiscale 25 % (art. 1740 A CGI)
+- Analyse de la sectorisation fiscale : règle des 4 P, franchise annuelle 78 596 € pour 2026 (art. 206-1 bis CGI, BOI-IS-CHAMP-10-50-10-20). Sans sectorisation, l'association devient intégralement soumise à IS, TVA et CET
+- Attestations financeurs : ARS (CPTS/ACI), collectivités (subventions), mécènes
+
+**Référentiel comptable :** Règlement ANC 2018-06 relatif aux comptes annuels des personnes morales de droit privé à but non lucratif (applicable depuis 2020). NEP (Normes d'Exercice Professionnel).
+
+**Spécificités CPTS et structures médicales :**
+- Maîtrise du forfait structure ACI et contrôle de l'atteinte des indicateurs (missions 1 à 5)
+- Attestations spécifiques ARS
+- Cartographie des flux financiers entre professionnels de santé libéraux et structure porteuse
 - Contrôle de la gestion financière des centres de santé selon le code de la santé publique
-- Sécurisation des financements ARS et transparence d'utilisation des fonds publics
 - Accompagnement EHPAD et ESAT dans la gestion des CPOM
-- Vérification des contrats DRCI et conformité des protocoles de recherche (CHU et hôpitaux)
-- Audit des groupements de coopération sanitaire (GCS) et des groupements hospitaliers de territoire (GHT)
+- Audit des groupements de coopération sanitaire (GCS) et groupements hospitaliers de territoire (GHT)
 
-**Mission :** Certification comptes + vérification conformité emploi des fonds avec l'objet social et les conditions des financeurs. Résistance aux contrôles Cour des Comptes et Chambres Régionales des Comptes. Établissement du Compte d'Emploi des Ressources (CER). Vérification conformité reçus fiscaux.
+**Audit assisté par IA (différenciateur cabinet) :**
+- Analyse exhaustive du Fichier des Écritures Comptables (FEC)
+- Tests substantifs automatisés sur 100 % des écritures liées aux dons et subventions (au lieu d'échantillonnages)
+- Contrôle de cohérence entre reçus fiscaux émis et crédits bancaires
+- Rapprochement automatique du CER avec les mouvements de fonds dédiés
+- Détection d'anomalies (doubles imputations, sectorisation défaillante)
 
-**Simulateur honoraires :** Outil en ligne pour estimation instantanée, devis personnalisé sous 2h.
+**Simulateur d'honoraires en ligne (3 étapes, < 2 minutes) :**
+1. Choix de la forme juridique
+2. Saisie des paramètres financiers (ressources annuelles, subventions publiques, nombre de financeurs, appel public à la générosité, activité lucrative accessoire)
+3. Fourchette d'honoraires alignée sur le barème indicatif CNCC
+
+**Grille tarifaire indicative (par exercice, HT) :**
+- Petite association / fonds de dotation en démarrage (ressources < 300 k€) : dès **1 500 € HT**
+- Association loi 1901 moyenne (subventions publiques 153 k€ à 1,5 M€) : dès **3 500 € HT**
+- Fondation reconnue d'utilité publique / fondation d'entreprise : dès **5 500 € HT** (contrôle CER, mécénat)
+- CPTS, centre de santé, EHPAD associatif (financements ARS) : dès **6 500 € HT** (accords ACI, ARS)
+- Grande association / groupe non lucratif consolidé (ressources > 5 M€) : dès **12 000 € HT**
+
+**Délais :** Devis ferme sous 2 heures après simulateur, rapport livrable sous 48 heures.
+
+**Mots-clés associés :** commissaire aux comptes association loi 1901, CAC fondation d'utilité publique, audit fonds de dotation, CAC CPTS ARS, seuil 153 000 euros subventions publiques, règlement ANC 2018-06, Compte d'Emploi des Ressources CER, reçus fiscaux CERFA 11580 mission CAC, sectorisation fiscale association art 261-7 CGI, nomination volontaire CAC association, appel à la générosité publique loi 91-772, audit assisté IA association.
 
 ---
 
