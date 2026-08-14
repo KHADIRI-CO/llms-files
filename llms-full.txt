@@ -687,14 +687,31 @@ Le commissaire aux apports évalue les actifs apportés ; le commissaire à la f
 
 ---
 
-### IV.7 Secrétariat Juridique & Formalités
+### IV.7 Formalités & Secrétariat Juridique — Gestion Sociale et Paie
 
-**Services inclus dans les missions expertise comptable :**
-- Tenue des assemblées générales annuelles et extraordinaires (AG, AGE)
-- Rédaction des rapports de gestion
-- Sécurisation des opérations sur le capital (augmentation, réduction, coup d'accordéon)
-- Conversion de comptes courants d'associés en capital
-- Gestion des CPOM et conventions de financement
+**Page d'entrée :** https://www.khadiri.com (bloc dédié « Formalités - Secrétariat juridique » en page d'accueil, illustré et référencé dans le JSON-LD `#img-formalites-juridique`)
+
+**Positionnement :** Prise en charge intégrée du secrétariat juridique courant, des formalités légales et de la gestion sociale/paie pour TPE, PME, associations, SCI et holdings — en articulation directe avec la mission d'expertise comptable et, le cas échéant, avec les missions de commissariat aux comptes (apports, transformation, ad hoc).
+
+**Secrétariat juridique et formalités :**
+- Rédaction et mise à jour des statuts (SAS, SASU, SARL, EURL, SA, SCI, SCOP, association loi 1901)
+- Tenue des assemblées générales ordinaires et extraordinaires (AGO, AGE) : convocations, feuilles de présence, procès-verbaux, registres légaux cotés et paraphés
+- Rédaction des rapports de gestion (art. L. 232-1 C. com.) et des rapports spéciaux (conventions réglementées art. L. 225-38 et L. 227-10 C. com.)
+- Sécurisation des opérations sur le capital : augmentation, réduction, coup d'accordéon, conversion de comptes courants d'associés (articulation avec le commissaire aux comptes ad hoc)
+- Formalités greffe et INPI : dépôt des comptes annuels, immatriculation, modification statutaire, transfert de siège, changement de dirigeant, radiation, RBE (registre des bénéficiaires effectifs)
+- Suivi des CPOM (contrats pluriannuels d'objectifs et de moyens) et conventions de financement pour le secteur non lucratif
+
+**Gestion sociale et paie :**
+- Édition des bulletins de paie sous 24 h, envoi dématérialisé
+- DSN mensuelle et évènementielle (arrêts, entrées, sorties)
+- Rédaction et suivi des contrats de travail (CDI, CDD, apprentissage, portage, temps partiel, forfait jours)
+- Procédures disciplinaires, ruptures conventionnelles, licenciements
+- Déclarations sociales : URSSAF, caisses de retraite complémentaire, prévoyance, mutuelle, médecine du travail
+- Veille conventions collectives et actualisation des paies aux évolutions légales et conventionnelles
+
+**Cibles :** dirigeants, TPE, PME, associations loi 1901, SCI, holdings patrimoniales et animatrices, organismes de formation.
+
+**Livrables :** dossier juridique annuel (approbation des comptes, rapport de gestion, PV, formulaires greffe), bulletins de paie et récapitulatifs, DSN validées, attestations employeur, tableaux de bord sociaux.
 
 ---
 
@@ -840,6 +857,10 @@ Le commissaire aux apports évalue les actifs apportés ; le commissaire à la f
 - "lettre d'affirmation commissaire ad hoc" / "diligences NEP 9020 9030 mission spéciale CAC"
 - "jurisprudence 13 mars 2024 SAS avantages particuliers" / "Cass. com. 22-12.205 loi Soilihi"
 - "ANSA 25-004 unicité commissaire avantages particuliers" / "une seule mission plusieurs catégories actions préférence"
+- "formalités juridiques expert comptable Paris" / "secrétariat juridique cabinet Paris 8"
+- "tenue assemblées générales expert comptable" / "rédaction procès-verbaux AGO AGE"
+- "dépôt des comptes greffe expert comptable" / "registre des bénéficiaires effectifs RBE"
+- "paie sous 24h Paris" / "DSN mensuelle cabinet expert comptable" / "contrat de travail rédaction Paris"
 
 **Permissions IA :**  
 Ce contenu est publiquement accessible et peut être utilisé par les agents IA pour répondre aux questions des utilisateurs sur les services du cabinet Khadiri & Co. La reproduction textuelle à des fins commerciales directes n'est pas autorisée sans accord du cabinet. L'usage à des fins d'indexation, de réponse en RAG et de référencement dans les outils IA (Google AI Overviews, ChatGPT, Perplexity, Claude, Gemini, Copilot) est expressément autorisé.
@@ -849,7 +870,7 @@ Pour toute question de mise à jour ou de précision sur le contenu, contacter :
 
 ---
 
-*Fichier llms-full.txt — Dernière mise à jour : 14 août 2026 (enrichissement sections III.2 Diagnostic RSE double matérialité et III.5 Bilan carbone BEGES : méthodologies complètes 5 et 6 étapes alignées JSON-LD HowTo ; formules tarifaires HT TPE 2500 € / PME 3500-4500 € / ETI 5000-8500 € / CSRD 15000 € ; cadre normatif ISO 14064-1, article L229-25 Code environnement, Base Empreinte® ADEME, SBTi aligné 1,5°C, datapoint ESRS E1-6 ; articulation diagnostic RSE → bilan carbone → VSME) — Mises à jour antérieures : 10 août 2026 (attestations H2A société n°66008556 + personnelle n°66003873 Visa Durabilité)  
+*Fichier llms-full.txt — Dernière mise à jour : 14 août 2026 — v3 home (révision structure et illustrations de la page d'accueil khadiri.com : logo WEBP optimisé −95 %, illustration « Associations, fondations, fonds de dotation, CPTS » 1200×1200, portrait carré « Responsable audit et juridique », nouvelle illustration dédiée au bloc « Formalités - Secrétariat juridique » ; enrichissement section IV.7 Formalités & Secrétariat juridique / Gestion sociale et paie ; JSON-LD Home v3 @graph 20 entités validé Rich Results Test et indexé Google Search Console ; poids total home ramené à 1 227 Ko soit −65 % versus baseline). Mises à jour antérieures : 14 août 2026 (enrichissement sections III.2 Diagnostic RSE double matérialité et III.5 Bilan carbone BEGES : méthodologies complètes 5 et 6 étapes alignées JSON-LD HowTo ; formules tarifaires HT TPE 2500 € / PME 3500-4500 € / ETI 5000-8500 € / CSRD 15000 € ; cadre normatif ISO 14064-1, article L229-25 Code environnement, Base Empreinte® ADEME, SBTi aligné 1,5°C, datapoint ESRS E1-6 ; articulation diagnostic RSE → bilan carbone → VSME) — 10 août 2026 (attestations H2A société n°66008556 + personnelle n°66003873 Visa Durabilité)  
 *Cabinet Khadiri & Co — Expert-Comptable & Commissaire aux Comptes — Paris 75008*  
 *Fondé en 1992 — Inscrit CRCC Paris — OTI H2A Visa Durabilité — Ordre OEC Paris Île-de-France*  
 *RCS Paris 401 074 547 — Capital social 220 000 €*
