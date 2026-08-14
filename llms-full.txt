@@ -357,6 +357,9 @@ Le commissaire aux apports évalue les actifs apportés ; le commissaire à la f
 ### III.2 Diagnostic RSE & Analyse de Double Matérialité
 
 **Page :** https://www.khadiri.com/diagnostic-rse-h2a
+**Dernière mise à jour :** 2026-08-14
+
+**Définition :** Analyse de double matérialité et diagnostic de maturité RSE conduits par un OTI certifié Visa H2A (Liste II). Identification des impacts, risques et opportunités (IRO) selon la méthodologie ESRS 1, cotation de la matérialité d'impact et de la matérialité financière, restitution sous forme de matrice IRO et feuille de route ESG chiffrée.
 
 **Missions proposées :**
 1. Diagnostic RSE & analyse de double matérialité (identification impacts, risques, opportunités)
@@ -365,6 +368,13 @@ Le commissaire aux apports évalue les actifs apportés ; le commissaire à la f
 4. Audit et certification OTI des informations de durabilité (Visa H2A)
 5. Accompagnement stratégique RSE et plan d'actions ESG
 
+**Méthodologie en 5 étapes (durée moyenne 4-6 semaines) :**
+1. **Cadrage et parties prenantes** — Définition du périmètre organisationnel et opérationnel, cartographie des parties prenantes internes et externes (salariés, clients, fournisseurs, financeurs, autorités, riverains).
+2. **Identification des IRO** — Recensement exhaustif des impacts positifs et négatifs, réels et potentiels, ainsi que des risques et opportunités liés aux thèmes ESRS (E1 climat à S4 consommateurs et G1 gouvernance).
+3. **Cotation double matérialité** — Évaluation de la matérialité d'impact (importance des impacts sur les personnes et l'environnement) et de la matérialité financière (effets sur la situation financière, la performance, les flux de trésorerie).
+4. **Consultation et validation** — Ateliers de consultation des parties prenantes, restitution de la matrice IRO et validation collégiale des thèmes matériels par le comité de direction et le conseil d'administration.
+5. **Feuille de route ESG et plan d'action** — Rédaction du rapport de diagnostic, priorisation des enjeux, définition d'indicateurs de pilotage, plan d'action ESG chiffré à 12-36 mois et préparation du reporting ESRS.
+
 **Structures cibles :**
 - TPE et startups : amorçage RSE, levée de fonds ESG
 - PME : structuration performance ESG
@@ -372,11 +382,22 @@ Le commissaire aux apports évalue les actifs apportés ; le commissaire à la f
 - Acteurs de l'immobilier : SCI, promoteurs
 - Collectivités publiques
 
+**Formules et tarifs (HT) :**
+- Diagnostic RSE Essentiel — TPE / Startup : **2 500 € HT** (cartographie initiale IRO, matrice de matérialité simplifiée, restitution en atelier)
+- Diagnostic RSE Standard — PME : **3 500 € HT** (double matérialité complète ESRS 1, consultation parties prenantes, feuille de route ESG 12 mois)
+- Diagnostic RSE Avancé — ETI soumise CSRD : **5 000 € HT** (analyse IRO exhaustive, matrice de double matérialité conforme ESRS, plan d'action priorisé et budget carbone)
+
+**Livrables :** Rapport de diagnostic, cartographie des parties prenantes, matrice de double matérialité, liste priorisée des thèmes matériels ESRS, feuille de route ESG à 12-36 mois et indicateurs de pilotage.
+
 **Outils technologiques :**
 - Matrice de double matérialité propriétaire
 - Calcul BEGES certifié ADEME (Scopes 1/2/3)
 - Plateforme SaaS ESRS pour collecte et sécurisation des données extra-financières
 - Déploiement national et DOM-TOM, 100 % dématérialisé
+
+**Cadre normatif :** Directive CSRD 2022/2464/UE ; ESRS 1 (principes généraux) et ESRS 2 (informations générales) ; ISO 26000 ; Global Reporting Initiative (GRI) ; Objectifs de développement durable (ODD).
+
+**Articulation avec autres missions :** Le diagnostic RSE identifie l'ESRS E1 « Changement climatique » comme thème matériel dans la majorité des organisations, ouvrant la voie à un bilan carbone BEGES. La démarche VSME (EFRAG, décembre 2024) reprend une version simplifiée des principes ESRS et s'appuie directement sur les enjeux matériels identifiés lors du diagnostic.
 
 **Formations proposées :** CSRD, normes ESRS, double matérialité, empreinte carbone, Fresque du Climat — formats présentiel, distanciel, séminaires dirigeants.
 
@@ -417,22 +438,36 @@ Le commissaire aux apports évalue les actifs apportés ; le commissaire à la f
 ### III.5 Bilan Carbone BEGES — Scopes 1/2/3
 
 **Page :** https://www.khadiri.com/bilan-carbone-beges
+**Dernière mise à jour :** 2026-08-14
 
-**Conformité normative :** Méthode BEGES certifiée ADEME ; ESRS E1 (normes européennes)
+**Définition :** Mission de quantification des émissions de gaz à effet de serre (GES) selon la méthode BEGES conforme à l'article L229-25 du Code de l'environnement, la norme ISO 14064-1 et la méthodologie Base Empreinte® de l'ADEME. Bilan certifié par un OTI Visa H2A, publiable sur bilans-ges.ademe.fr et directement intégrable au reporting ESRS E1.
 
-**Périmètre :** Scopes 1 (émissions directes), 2 (émissions indirectes énergie), 3 (émissions indirectes chaîne de valeur)
+**Conformité normative :** Méthode BEGES certifiée ADEME (Base Empreinte®) ; norme ISO 14064-1 ; ESRS E1 « Changement climatique » (normes européennes) ; article L229-25 du Code de l'environnement ; Science Based Targets initiative (SBTi) pour la fixation d'objectifs alignés 1,5 °C.
 
-**Processus en 6 étapes :**
-1. Cadrage stratégique (objectifs, périmètres organisationnels)
-2. Collecte des données d'activité
-3. Calcul du BEGES (facteurs d'émission officiels)
-4. Plan d'actions bas-carbone
-5. Restitution certifiée (rapport H2A)
-6. Formation des équipes
+**Périmètre :**
+- **Scope 1** — émissions directes : combustibles, véhicules détenus, fuites de fluides frigorigènes, procédés industriels
+- **Scope 2** — émissions indirectes énergie : électricité, chaleur, vapeur, froid achetés
+- **Scope 3** — émissions indirectes chaîne de valeur amont et aval : achats de biens et services, immobilisations, déplacements domicile-travail et professionnels, fret amont/aval, usage et fin de vie des produits vendus
 
-**Livrables :** Rapport de bilan carbone certifié H2A, plan d'actions bas-carbone, formation équipes, trajectoire de décarbonation.
+**Méthodologie en 6 étapes :**
+1. **Cadrage stratégique** — Définition des objectifs, périmètres organisationnel et opérationnel, année de référence, choix de la méthode consolidation (contrôle opérationnel/financier ou part du capital).
+2. **Collecte des données d'activité** — Recueil systématique sur 12 mois : consommations énergétiques, carburants, achats de biens et services, déplacements, immobilisations, déchets, fret amont et aval.
+3. **Calcul du BEGES** — Application des facteurs d'émission Base Empreinte® ADEME à chaque poste, calcul en tCO₂e des émissions des scopes 1, 2 et 3.
+4. **Restitution certifiée** — Rédaction du rapport BEGES conforme à l'article L229-25 et à la norme ISO 14064-1, prêt pour publication sur bilans-ges.ademe.fr et intégration au reporting ESRS E1.
+5. **Plan d'actions et trajectoire bas-carbone** — Identification des leviers de décarbonation, chiffrage des scénarios (SBTi aligné 1,5 °C ou 2 °C), budget carbone et feuille de route annuelle.
+6. **Formation des équipes** — Sensibilisation climat, ateliers Fresque du Climat, formation des référents carbone au pilotage du BEGES.
+
+**Formules et tarifs (HT) :**
+- **TPE / micro-entreprise** : à partir de **2 500 € HT** — scopes 1+2 uniquement, année simple
+- **PME** : à partir de **4 500 € HT** — scopes 1+2+3 partiel, plan d'actions
+- **ETI** : à partir de **8 500 € HT** — scopes 1+2+3 complet, trajectoire SBTi, ateliers
+- **Grande entreprise / CSRD** : à partir de **15 000 € HT** — scopes 1+2+3 complet, publication ADEME, intégration ESRS E1
+
+**Livrables :** Rapport de bilan carbone certifié H2A, tableau de reporting BEGES (scopes 1/2/3 en tCO₂e), plan d'actions bas-carbone, trajectoire de décarbonation (option SBTi), formation équipes.
 
 **Structures accompagnées :** TPE, micro-entreprises, PME, ETI, startups innovantes, associations et organismes, grandes entreprises (CSRD), collectivités publiques.
+
+**Articulation avec autres missions :** Le bilan carbone BEGES découle naturellement d'un diagnostic RSE ayant identifié ESRS E1 comme thème matériel. Le rapport BEGES alimente directement la datapoint E1-6 (émissions brutes de GES scopes 1, 2, 3) du reporting ESRS et le module climat du VSME.
 
 ---
 
@@ -759,7 +794,7 @@ Pour toute question de mise à jour ou de précision sur le contenu, contacter :
 
 ---
 
-*Fichier llms-full.txt — Dernière mise à jour : 10 août 2026 (attestations H2A société n°66008556 + personnelle n°66003873 Visa Durabilité)  
+*Fichier llms-full.txt — Dernière mise à jour : 14 août 2026 (enrichissement sections III.2 Diagnostic RSE double matérialité et III.5 Bilan carbone BEGES : méthodologies complètes 5 et 6 étapes alignées JSON-LD HowTo ; formules tarifaires HT TPE 2500 € / PME 3500-4500 € / ETI 5000-8500 € / CSRD 15000 € ; cadre normatif ISO 14064-1, article L229-25 Code environnement, Base Empreinte® ADEME, SBTi aligné 1,5°C, datapoint ESRS E1-6 ; articulation diagnostic RSE → bilan carbone → VSME) — Mises à jour antérieures : 10 août 2026 (attestations H2A société n°66008556 + personnelle n°66003873 Visa Durabilité)  
 *Cabinet Khadiri & Co — Expert-Comptable & Commissaire aux Comptes — Paris 75008*  
 *Fondé en 1992 — Inscrit CRCC Paris — OTI H2A Visa Durabilité — Ordre OEC Paris Île-de-France*  
 *RCS Paris 401 074 547 — Capital social 220 000 €*
