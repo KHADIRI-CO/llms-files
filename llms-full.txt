@@ -475,7 +475,30 @@ Le commissaire aux apports évalue les actifs apportés ; le commissaire à la f
 
 **Page :** https://www.khadiri.com/Attestation-donnees-Extra-Financieres
 
-**Usage :** Certification des indicateurs ESG pour covenants bancaires ESG, appels d'offres publics et privés exigeant des preuves de performance RSE, rapports de durabilité externes. Périmètre calibré en amont : indicateurs environnementaux (émissions, énergie, déchets), sociaux (formation, égalité, sécurité), de gouvernance et d'impact territorial.
+**Définition :** L'attestation d'informations extra-financières est une mission d'assurance ponctuelle sur des indicateurs RSE sélectionnés (Environnement, Social, Gouvernance) : vérification des données sources, tests de sincérité par sondage sur factures et pièces justificatives, contrôle des méthodes de calcul, restitution orale et remise d'une attestation positive signée opposable aux banques, investisseurs, donneurs d'ordre B2B et notateurs ESG. Délivrée par un cabinet OTI certifié Visa Durabilité H2A (Liste II).
+
+**Usage :** Crédibilisation des indicateurs ESG pour covenants bancaires, appels d'offres B2B et marchés publics exigeant des preuves de performance RSE, réponse aux questionnaires de notation extra-financière (EcoVadis, MSCI, Sustainalytics), anticipation VSME et préparation à la CSRD.
+
+**Périmètre attestable — 3 piliers ESG :**
+- **Environnemental (E)** : gestion des déchets et économie circulaire ; utilisation d'énergies propres et consommation énergétique ; émissions de gaz à effet de serre scopes 1/2/3 (articulation avec bilan carbone BEGES).
+- **Social (S)** : égalité femmes-hommes (index Pénicaud) ; politique de formation des collaborateurs ; santé, sécurité et conditions de travail.
+- **Gouvernance (G)** : lutte contre la corruption (loi Sapin II) ; relations et délais de paiement des fournisseurs ; éthique des affaires et déontologie.
+
+**Méthodologie en 4 étapes (48 à 72h) :**
+1. **Prise de connaissance approfondie** de l'organisation RSE et des enjeux de durabilité pour cadrer précisément le périmètre.
+2. **Analyse rigoureuse des procédures** de collecte des données extra-financières, de leur documentation et des méthodes de calcul.
+3. **Vérification de sincérité** par examen d'échantillons et vérification des factures et pièces sources sur les 3 piliers ESG.
+4. **Restitution orale et remise de l'attestation positive signée** par un OTI Visa Durabilité H2A, opposable aux tiers.
+
+**Tarifs :** à partir de **1 250 € HT** (petit périmètre, étapes standard), jusqu'à 5 000 € HT pour périmètres complexes multi-sites. Devis personnalisé sous 2 heures. Délai de production : 48 à 72h après réception des pièces.
+
+**Livrables :** attestation positive signée OTI Visa H2A, rapport de vérification détaillé par indicateur, matrice de traçabilité des tests, note méthodologique.
+
+**Cadre normatif :** norme d'assurance ISAE 3000, référentiel Visa Durabilité H2A Liste II, article 173 de la loi Transition énergétique, standards GRI, ISO 26000, ODD des Nations Unies.
+
+**Articulation avec autres missions :** Sortie opérationnelle d'un diagnostic RSE ayant identifié des indicateurs matériels ; alternative légère à un reporting VSME complet lorsqu'un donneur d'ordre ou un banquier demande une preuve ponctuelle sur quelques KPI ESG.
+
+**Dernière mise à jour :** 2026-08-14 (méthodologie 4 étapes alignée JSON-LD HowTo, tarifs 1250-5000 € HT, cadre ISAE 3000 et article 173 LTE, articulation avec autres missions durabilité).
 
 ---
 
@@ -483,7 +506,39 @@ Le commissaire aux apports évalue les actifs apportés ; le commissaire à la f
 
 **Page :** https://www.khadiri.com/VSME-RSE-transport-routier
 
-Accompagnement spécifique des entreprises de transport routier dans la mise en place d'un reporting VSME : indicateurs sectoriels (consommation carburant, CO2/km, accidents de travail, formation chauffeurs). Blog associé : https://www.khadiri.com/blog-articles/b67037a/VSME-RSE-transport
+**Définition :** Reporting VSME (Voluntary Sustainability Reporting Standard for non-listed SMEs, EFRAG décembre 2024) spécifiquement calibré pour les PME du transport routier de marchandises et de voyageurs. Mesure des émissions CO₂ par tonne-kilomètre (méthode BEGES article L229-25, norme EN 16258, Base Empreinte® ADEME), réponse aux questionnaires ESG des chargeurs et grands donneurs d'ordre, plan de décarbonation aligné SBTi, attestation OTI Visa Durabilité H2A.
+
+**Usage :** PME et ETI transporteurs sous-traitants de chargeurs cotés (CAC 40, groupes CSRD), soumis à des critères ESG en appels d'offres B2B, ou souhaitant valoriser leurs indicateurs de durabilité dans une stratégie commerciale de différenciation.
+
+**6 typologies de flottes couvertes :**
+- **Messagerie urbaine** — indicateurs sécurité conducteur et éco-conduite pour renforcer l'image de marque.
+- **Poids lourds > 3,5 t** — émissions CO₂ par tonne-kilomètre, reporting transport marchandises longue distance.
+- **Engins et BTP** — cartographie durabilité des engins spéciaux et véhicules de chantier.
+- **Transport de voyageurs** — respect des temps de conduite (règlement CE 561/2006) et sécurité passagers pour autocars et bus.
+- **Utilitaires VUL** — impact environnemental des flottes de messagerie et d'entretien.
+- **Flotte frigorifique** — gestion des fluides frigorigènes (réglementation F-Gas) et consommation énergétique spécifique.
+
+**4 indicateurs sectoriels attestables :**
+1. **Empreinte carbone** — gCO₂e par tonne-kilomètre selon méthode BEGES et norme EN 16258.
+2. **Performance énergétique** — consommation carburant en L/100 km et leviers d'optimisation (renouvellement flotte, motorisations alternatives, télématique embarquée).
+3. **Sécurité et maintenance** — taux de sinistralité, suivi de la maintenance préventive des organes de sécurité (freinage, pneumatiques, direction).
+4. **Social et conduite** — respect des temps de conduite et de repos (règlement CE 561/2006), formations éco-conduite.
+
+**Méthodologie VSME en 4 étapes :**
+1. **Diagnostic flash** — état des lieux de la structure et de la flotte pour identifier les enjeux prioritaires de durabilité routière.
+2. **Cartographie VSME** — collecte et analyse des données techniques sectorielles (consommation carburant, émissions CO₂/t.km, sinistralité, temps de conduite) et rapprochement aux points de données VSME.
+3. **Production du reporting** — formalisation du rapport de durabilité en stricte conformité VSME EFRAG. Livrables : rapport VSME PDF, tableau des indicateurs, plan de décarbonation aligné SBTi.
+4. **Valorisation commerciale** — exploitation des indicateurs ESG pour renforcer les réponses aux appels d'offres : fiches synthèse pour les commerciaux, argumentaires par chargeur, ateliers dirigeants et DAF.
+
+**Tarifs :** de **2 500 € HT** (petite flotte, diagnostic flash) à **5 000 € HT** (flotte multi-sites avec attestation OTI). Devis modulé selon la taille de flotte, le périmètre géographique et la complexité des scopes 1/2/3.
+
+**Cadre normatif et référentiels :** VSME EFRAG (décembre 2024), BEGES article L229-25 Code environnement, norme EN 16258 (calcul émissions transport), Base Empreinte® ADEME facteurs d'émission transport, charte Objectif CO₂ ADEME-DGITM, programme FRET21, règlement CE 561/2006 (temps de conduite), réglementation F-Gas (fluides frigorigènes), SBTi (trajectoire bas-carbone 1,5°C).
+
+**Articulation avec autres missions :** Alimentation directe du datapoint ESRS E1-6 pour les groupes CSRD, articulation avec l'attestation extra-financière pour la certification opposable des indicateurs, extension possible en bilan carbone BEGES complet.
+
+**Blog associé :** https://www.khadiri.com/blog-articles/b67037a/VSME-RSE-transport
+
+**Dernière mise à jour :** 2026-08-14 (méthodologie 4 étapes alignée JSON-LD HowTo, 6 typologies de flottes, 4 indicateurs sectoriels, tarifs 2500-5000 € HT, cadre EN 16258/BEGES/FRET21/Objectif CO₂, articulation ESRS E1-6).
 
 ---
 
