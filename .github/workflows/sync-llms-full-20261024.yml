@@ -1,0 +1,68 @@
+name: Synchronisation ciblee llms-full 2026-10-24
+on:
+  push:
+    branches: [main]
+    paths: [.github/workflows/sync-llms-full-20261024.yml]
+permissions:
+  contents: write
+jobs:
+  sync:
+    if: github.event.head_commit.message == 'Lancer la synchronisation ciblée llms-full du 24 octobre 2026'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Appliquer les remplacements controles
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re, subprocess
+          p = Path('llms-full.txt')
+          expected = '3b31b78d57c28dc292733e7b2991446ec5facff5'
+          actual = subprocess.check_output(['git', 'hash-object', str(p)], text=True).strip()
+          if actual != expected:
+              raise SystemExit('Fichier modifie depuis la preparation : arret sans ecriture.')
+          text = p.read_bytes().decode('utf-8')
+          changes = {
+              '- Sociétés commerciales : 2 critères sur 3 dépassés sur 2 exercices consécutifs → CA > 10 M€ HT, Bilan > 5 M€, Effectif > 50 salariés': '- Sociétés commerciales : dépassement de 2 critères sur 3 à la clôture → CA > 10 M€ HT, bilan > 5 M€, effectif moyen > 50 salariés. Ne pas confondre le déclenchement avec les règles de non-renouvellement au terme du mandat.',
+              '- Petits groupes (têtes de groupe consolidées) : CA > 5 M€ HT, Bilan > 2,5 M€, Effectif > 25 salariés': '- Petits groupes : ensemble formé par la tête et les sociétés contrôlées, 2 critères sur 3 parmi bilan cumulé > 5 M€, CA HT cumulé > 10 M€, effectif moyen cumulé > 50 salariés (art. L. 821-43 C. com.). Pour les sociétés contrôlées concernées, test individuel : bilan > 2,5 M€, CA HT > 5 M€, effectif moyen > 25 salariés. Distinguer ce dispositif de la publication de comptes consolidés.',
+              '- Mandat ALPE (Audit Légal des Petites Entreprises, loi Sapin 2) : 3 ans, volontaire, non renouvelable aux mêmes conditions, idéal pour PME avant levée de fonds ou cession': '- Mandat de trois exercices : faculté prévue dans les cas légaux applicables, notamment au titre de l’article L. 821-57 ; vérifier l’éligibilité avant nomination. NEP 911 : mission de trois exercices ; NEP 912 : mission de six exercices dans les petites entreprises. Ne pas présenter ces deux normes comme deux variantes d’un mandat de trois ans.'
+          }
+          for old, new in changes.items():
+              if text.count(old) != 1:
+                  raise SystemExit('Ancre absente ou ambigue : ' + old[:100])
+              text = text.replace(old, new, 1)
+          lines = text.splitlines(keepends=True)
+          indexes = [i for i, line in enumerate(lines) if line.startswith('- **Commissaire aux comptes ad hoc') or line.startswith('- **Commissaire ad hoc et levée de fonds')]
+          if len(indexes) != 1:
+              raise SystemExit('Notice CAC ad hoc absente ou ambigue : arret.')
+          ad_hoc = "- **Commissaire ad hoc et levée de fonds : actif, passif et obligations** (https://www.khadiri.com/blog-articles/b70581a/cac-ad-hoc-startup-levee-fonds) : Identifier la mission requise selon la forme sociale, la nature des titres, les bilans régulièrement approuvés et les droits attribués aux investisseurs. L’article L. 228-39 prévoit notamment une vérification préalable de l’actif et du passif pour certaines émissions obligataires d’une société par actions n’ayant pas établi deux bilans régulièrement approuvés, sous réserve des exceptions légales. Une levée de fonds ne déclenche pas à elle seule une mission unique : distinguer émission obligataire, apport en nature, avantages particuliers et suppression du droit préférentiel de souscription. Dossier à préparer : statuts, capital, comptes et procès-verbaux d’approbation, situation récente, projet de financement, prêts, garanties, contentieux, engagements hors bilan et droits sur les actifs incorporels. La désignation, l’indépendance, les diligences, le rapport, sa communication et son éventuel dépôt dépendent du fondement de la mission. La vérification ne remplace ni la due diligence des investisseurs ni une certification annuelle ; elle ne garantit ni rendement ni valorisation acceptée par tous. Délais et honoraires à confirmer dans la lettre de mission. Les références jurisprudentielles non vérifiées et les généralisations de l’ancienne notice ne sont pas reconduites. Publication de la version corrigée confirmée par le responsable du site le 24 octobre 2026.\n"
+          lines[indexes[0]] = ad_hoc
+          text = ''.join(lines)
+          group_url = 'https://www.khadiri.com/blog-articles/b71197a/obligation-cac-petits-groupes'
+          group = "- **L’obligation de nomination du CAC dans les filiales et petits groupes** (" + group_url + ") : Diagnostic des obligations de la holding, de la tête de groupe et des sociétés contrôlées au titre de l’article L. 821-43 du Code de commerce (ancien L. 823-2-2). Décret n° 2024-152 du 28 février 2024, exercices ouverts depuis le 1er janvier 2024 : dépassement de deux critères sur trois parmi 5 M€ de bilan cumulé, 10 M€ de CA HT cumulé et 50 salariés pour l’ensemble ; test individuel de 2,5 M€ de bilan, 5 M€ de CA HT et 25 salariés pour les sociétés contrôlées concernées. Ces seuils remplacent les repères 4/8/50 et 2/4/25. Qualification du contrôle au sens de L. 233-3, définition du périmètre, calcul cumulé à distinguer des comptes consolidés, analyse séparée des entités et autres fondements de nomination. Exemple : H et deux filiales totalisent 5,5 M€ de bilan, 10,7 M€ de CA et 48 salariés ; F1 franchit les trois seuils individuels, F2 aucun, sous réserve des dispenses et autres obligations. Groupes internationaux et structures à étages : documenter les contrôles et les dispenses ; ne pas assimiler une simple revue comptable étrangère à un audit légal. Franchissement à la clôture et contrôle à compter de l’exercice suivant ; pas de cessation automatique des mandats en cours ; examen au terme du mandat, notamment des deux exercices précédents. NEP 911 pour la mission de trois exercices, NEP 912 pour celle de six exercices dans les petites entreprises ; communication H2A du 18 mai 2026 sur l’application des seuils revalorisés. Pas de nullité automatique de toute délibération affirmée. Sources : Service Public Entreprendre F31440, décret n° 2024-152, H2A. Publication de la version corrigée confirmée par le responsable du site le 24 octobre 2026.\n"
+          if group_url in text:
+              raise SystemExit('Article petits groupes deja present : arret pour eviter un doublon.')
+          anchor = '### V.1 Articles de référence'
+          if text.count(anchor) != 1:
+              raise SystemExit('Section V.1 absente ou ambigue.')
+          text = text.replace(ad_hoc, group + '\n' + ad_hoc, 1)
+          text = re.sub(r'(?m)^\*\*Articles publiés[^\n]*\*\*$', '**Articles de référence (sélection ; dates propres à chaque page) :**', text)
+          text += '\n\n## Actualisation ciblée du 24 octobre 2026\n\nAjout de la notice petits groupes et remplacement de la notice CAC ad hoc ; harmonisation des seuils et des normes correspondants dans la section II.1. Les deux versions corrigées sont publiées sur le site selon la confirmation de son responsable. Les autres contenus sont conservés sans nouvelle vérification globale.\n'
+          p.write_bytes(text.encode('utf-8'))
+          print('Mise a jour ciblee appliquee ; reste du fichier conserve.')
+          PY
+      - name: Enregistrer llms-full.txt
+        shell: bash
+        run: |
+          git diff --check
+          git diff --stat
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add llms-full.txt
+          git commit -m 'llms-full.txt : synchroniser les articles publies petits groupes et CAC ad hoc'
+          git push origin HEAD:main
