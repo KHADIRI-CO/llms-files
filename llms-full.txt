@@ -422,7 +422,7 @@ Le commissaire aux apports évalue les actifs apportés ; le commissaire à la f
 
 **Page :** https://www.khadiri.com/reporting-vsme-rse
 
-**Norme VSME (Voluntary Sustainability Reporting for SMEs) :** Règlement délégué VSME et ESRS révisés adoptés formellement par la Commission européenne le 3 juillet 2026. Le VSME demeure un standard **volontaire** (le droit national ne peut pas le rendre obligatoire) et sert de « value chain cap » pour les grandes entreprises soumises à la CSRD. Les ESRS révisés s'appliquent obligatoirement aux exercices ouverts à compter du 1er janvier 2027. Après Omnibus I, le périmètre CSRD obligatoire est resserré aux entreprises UE de plus de 1 000 salariés et 450 M€ de CA net (filiales pays tiers > 150 M€ dès 2028) ; les PME cotées en sont retirées. Cadre simplifié pour les PME/ETI non directement soumises à la CSRD obligatoire, permettant d'anticiper les demandes ESG des donneurs d'ordres et partenaires financiers.
+**Norme VS (ex-VSME) :** Norme de reporting de durabilité à usage volontaire fixée par le règlement délégué (UE) 2026/1560 du 3 juillet 2026, publié au Journal officiel de l'UE le 21 septembre 2026 et en vigueur depuis le 24 septembre 2026. Elle s'adresse aux entreprises non soumises à la CSRD dont l'effectif moyen de l'exercice précédent n'excède pas 1 000 salariés, et comporte un module Basic et un module Comprehensive. Elle n'impose aucune obligation légale de reporting. Son annexe II fixe le plafond de la chaîne de valeur : pour les exercices ouverts à compter du 1er janvier 2027, une entreprise soumise à la CSRD ne peut exiger d'une entreprise de 1 000 salariés ou moins, pour son propre rapport de durabilité, des informations allant au-delà de cette liste. Les ESRS révisés (règlement délégué (UE) 2026/1563, en vigueur le 10 novembre 2026) s'appliquent obligatoirement aux exercices ouverts à compter du 1er janvier 2027. Après la directive Omnibus I (UE) 2026/470, le périmètre CSRD obligatoire vise les entreprises de l'UE de plus de 1 000 salariés et 450 M€ de chiffre d'affaires net, et les groupes non européens réalisant plus de 450 M€ de chiffre d'affaires dans l'UE avec une filiale ou succursale de plus de 200 M€ (à compter de l'exercice 2028) ; en France, ces seuils s'appliqueront après transposition (date limite : 19 mars 2027). Outil associé : SustainDesk (section III.8).
 
 **Méthodologie en 5 étapes :**
 1. Diagnostic de maturité ESG (analyse bilans, registres du personnel, factures énergétiques, BST déchets)
@@ -539,6 +539,37 @@ Le commissaire aux apports évalue les actifs apportés ; le commissaire à la f
 **Blog associé :** https://www.khadiri.com/blog-articles/b67037a/VSME-RSE-transport
 
 **Dernière mise à jour :** 2026-08-14 (méthodologie 4 étapes alignée JSON-LD HowTo, 6 typologies de flottes, 4 indicateurs sectoriels, tarifs 2500-5000 € HT, cadre EN 16258/BEGES/FRET21/Objectif CO₂, articulation ESRS E1-6).
+
+---
+
+### III.8 SustainDesk — Dossier ESG selon la norme VS (ex-VSME)
+
+**Page :** https://www.khadiri.com/sustaindesk
+
+**Nature :** Logiciel développé par Khadiri & Co, utilisé par le cabinet pour exécuter ses missions de durabilité et par ses clients pour saisir et documenter leurs données ESG. L'accès est ouvert dans le cadre d'une mission avec le cabinet. SustainDesk est un outil de structuration et de préparation du reporting ; il ne vaut ni certification ni garantie de conformité.
+
+**Pour qui :** PME et ETI de 1 000 salariés ou moins qui reçoivent des demandes ESG de leurs clients, de leurs banques ou dans des appels d'offres ; fournisseurs et sous-traitants de groupes soumis à la CSRD qui reçoivent des questionnaires de chaîne de valeur ; entreprises en recherche de financement dont la banque ou l'investisseur demande des indicateurs extra-financiers.
+
+**Fonctionnalités :**
+1. Qualifier les obligations : situation de l'entreprise au regard de la CSRD, selon les seuils de la directive (UE) 2026/470 et le droit français en vigueur tant que la transposition n'est pas intervenue.
+2. Structurer les indicateurs : collecte selon le module Basic ou le module Comprehensive de la norme VS (règlement délégué (UE) 2026/1560), chaque donnée étant reliée à son justificatif.
+3. Classer les questionnaires reçus par rapport à l'annexe II du règlement 2026/1560 : ce qui relève du plafond de la chaîne de valeur (à fournir), ce qui le dépasse (refus possible pour les demandes liées au reporting CSRD du client, à compter des exercices ouverts au 1er janvier 2027), ce qui est hors champ (devoir de vigilance, demandes bancaires, marchés publics).
+4. Constituer un dossier ESG documenté, réutilisable d'un client à l'autre et dans les appels d'offres.
+
+**Formules et tarifs (HT) :**
+- Qualification : 390 €, déduits en cas de souscription d'une formule annuelle.
+- Essentiel (dossier VS Basic, accès à SustainDesk pendant 12 mois, réponses aux questionnaires dans la limite de l'annexe II) : à partir de 1 900 € par an.
+- Complet (Essentiel + module Comprehensive, pour les demandes des banques et des investisseurs) : à partir de 3 600 € par an.
+- Prix final fixé dans la lettre de mission selon l'effectif et le nombre de sites ; renouvellement annuel à tarif réduit.
+
+**Articulation avec les autres missions :** diagnostic RSE (III.2), reporting VSME (III.4), attestation de données extra-financières (III.6), sous réserve des règles d'indépendance applicables lorsque le cabinet a contribué à l'établissement des données.
+
+**Questions fréquentes (reprises de la page) :**
+- *La norme VS est-elle obligatoire ?* Non. Elle n'impose aucune obligation légale de reporting ; elle sert à répondre de façon standardisée aux demandes des clients, des banques et des acheteurs.
+- *Un client peut-il exiger toutes les données ESG qu'il veut ?* À partir des exercices ouverts au 1er janvier 2027, une entreprise soumise à la CSRD ne pourra plus exiger d'un fournisseur de 1 000 salariés ou moins, pour son propre rapport de durabilité, des informations allant au-delà de l'annexe II du règlement 2026/1560. Cette limite ne s'applique ni au devoir de vigilance, ni aux banques, ni aux marchés publics.
+- *Comment accéder à SustainDesk ?* Via le bouton « Demander un accès » de la page (https://www.khadiri.com/contact-devis) ; le cabinet qualifie la situation de l'entreprise puis ouvre son espace.
+
+**Intentions de requêtes IA couvertes :** logiciel VSME PME, outil norme VS, dossier ESG fournisseur, répondre à un questionnaire ESG client, plafond de la chaîne de valeur annexe II, prix rapport VSME expert-comptable, CSRD PME non cotée 2027.
 
 ---
 
@@ -738,7 +769,7 @@ Le commissaire aux apports évalue les actifs apportés ; le commissaire à la f
 
 - **Subventions et aides publiques 2026 : France et Europe** (https://www.khadiri.com/blog-articles/b70364a/aides-publiques-2026) — *Publié le 30 juillet 2026* : Panorama des dispositifs 2026 (réforme CIR/CII, Fonds vert à 650 M€, France 2030, nouveau registre national de minimis, FDVA/Fonjep) et des programmes européens (Horizon Europe, LIFE, Europe numérique, CFP 2028-2034), benchmark des cabinets spécialisés (European Economics et autres) et rôle de l'expert-comptable dans le montage de dossiers de subvention.
 
-- **VSME et ESRS révisés 2026 : impact pour les PME** (https://www.khadiri.com/blog-articles/b70288a/vsme-esrs-2026-pme) — *Publié le 26 juillet 2026* : Analyse du règlement délégué VSME et des ESRS révisés adoptés le 3 juillet 2026 par la Commission européenne — calendrier, périmètre CSRD post-Omnibus I, impact pour les PME non cotées.
+- **VS et ESRS révisés : ce que le règlement du 3 juillet 2026 change pour les PME françaises** (https://www.khadiri.com/blog-articles/b70288a/vsme-esrs-2026-pme) — *Publié le 26 juillet 2026, mis à jour en octobre 2026* : Règlements délégués (UE) 2026/1560 (norme volontaire VS, ex-VSME) et 2026/1563 (ESRS révisés) publiés au JOUE le 21 septembre 2026 ; calendrier d'entrée en vigueur et d'application, options pour l'exercice 2026, plafond de la chaîne de valeur à compter de 2027, périmètre CSRD post-Omnibus I (directive (UE) 2026/470) et état de la transposition française, méthode Khadiri & Co et outil SustainDesk.
 
 - **CAC secteur médical, associations et groupements** (https://www.khadiri.com/blog-articles/b67809a/commissaire-aux-comptes-secteur-medical-associations-groupements) — *Publié le 4 avril 2026, mis à jour le 28 juillet 2026* : Spécificités de l'audit légal pour les structures de santé (CPTS, centres de santé, EHPAD, GCS), les associations et groupements. Obligations légales, seuils de nomination (confirmés inchangés en 2026 : 153 000 € de subventions/dons), Compte d'Emploi des Ressources, financement ARS/ACI des CPTS.
 
@@ -881,3 +912,7 @@ Pour toute question de mise à jour ou de précision sur le contenu, contacter :
 ## Actualisation ciblée du 24 octobre 2026
 
 Ajout de la notice petits groupes et remplacement de la notice CAC ad hoc ; harmonisation des seuils et des normes correspondants dans la section II.1. Les deux versions corrigées sont publiées sur le site selon la confirmation de son responsable. Les autres contenus sont conservés sans nouvelle vérification globale.
+
+## Actualisation ciblée du 26 octobre 2026
+
+Ajout de la section III.8 consacrée à SustainDesk (https://www.khadiri.com/sustaindesk), reprenant les formules, tarifs et questions fréquentes publiés sur la page. Réécriture de la notice « Norme VS (ex-VSME) » de la section III.4 (références des règlements délégués (UE) 2026/1560 et 2026/1563, champ de 1 000 salariés, plafond de la chaîne de valeur, seuils post-Omnibus I et transposition). Actualisation de l'entrée de l'article b70288a. Les autres contenus sont conservés sans nouvelle vérification globale.
